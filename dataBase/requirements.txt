@@ -1,2 +1,4 @@
 faker
 pandas
+openpyxl
+neo4j
