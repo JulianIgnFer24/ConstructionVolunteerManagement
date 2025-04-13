@@ -1,0 +1,1086 @@
+Nombre,Apellido,Edad,Fecha Nacimiento,Género,Provincia,Habilidad Constructiva,Habilidad Social,Habilidad de Perspectiva de Género,Barrio,Fecha
+Lucas,Gonzalez,22,2003-04-17,Masculino,Mendoza,7,1,5,Barrio Grilli Norte (Guaymallén),2021-04-05
+Victoria,Fernandez,21,2004-02-09,Femenino,Mendoza,7,4,2,Yañez (Maipu),2024-07-25
+Victoria,Fernandez,21,2004-02-09,Femenino,Mendoza,7,4,2,Barrio Grilli Sur (Guaymallén),2022-01-15
+Milagros,Paez,18,2007-02-03,Femenino,Mendoza,5,3,2,Todos Unidos (Las Heras),2023-05-25
+Clara,Gonzalez,19,2006-02-06,Femenino,Mendoza,0,0,0,None,None
+Mateo,Gimenez,18,2007-01-11,Masculino,Mendoza,7,3,7,Todos Unidos (Las Heras),2023-05-25
+Mateo,Gimenez,18,2007-01-11,Masculino,Mendoza,7,3,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Maximo,Vera,41,1984-09-29,Masculino,Mendoza,7,5,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Maximo,Vera,41,1984-09-29,Masculino,Mendoza,7,5,6,Tierras Vivas (Lujan),2024-11-12
+Maximo,Vera,41,1984-09-29,Masculino,Mendoza,7,5,6,Barrio Grilli Sur (Guaymallén),2022-01-15
+Agustin,Diaz,25,2000-08-16,Masculino,Mendoza,7,6,10,Tierras Vivas (Lujan),2022-02-20
+Emilia,Aguero,50,1975-10-22,Femenino,Mendoza,6,6,8,Yañez (Maipu),2024-07-25
+Emilia,Aguero,50,1975-10-22,Femenino,Mendoza,6,6,8,Tierras Vivas (Lujan),2024-11-12
+Maia,Quiroga,50,1975-05-13,Femenino,Mendoza,5,6,5,Tierras Vivas (Lujan),2022-02-20
+Santiago,Diaz,19,2006-10-24,Masculino,Mendoza,6,6,4,Tierras Vivas (Lujan),2024-11-12
+Santiago,Diaz,19,2006-10-24,Masculino,Mendoza,6,6,4,Tierras Vivas (Lujan),2022-02-20
+Santiago,Diaz,19,2006-10-24,Masculino,Mendoza,6,6,4,Barrio Grilli Sur (Guaymallén),2022-01-15
+Santiago,Diaz,19,2006-10-24,Masculino,Mendoza,6,6,4,Todos Unidos (Las Heras),2023-05-25
+Josefina,Gomez,29,1996-02-07,Femenino,Mendoza,8,9,8,Yañez (Maipu),2024-07-25
+Alma,Romero,34,1991-04-13,Femenino,Mendoza,0,0,0,None,None
+Maia,Ojeda,28,1997-07-28,Femenino,Mendoza,8,9,8,Yañez (Maipu),2024-07-25
+Maia,Ojeda,28,1997-07-28,Femenino,Mendoza,8,9,8,Barrio Grilli Norte (Guaymallén),2021-04-05
+Maia,Ojeda,28,1997-07-28,Femenino,Mendoza,8,9,8,Todos Unidos (Las Heras),2023-05-25
+Sofia,Ayala,57,1968-01-31,Femenino,Mendoza,7,10,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Sofia,Ayala,57,1968-01-31,Femenino,Mendoza,7,10,7,Tierras Vivas (Lujan),2024-11-12
+Sofia,Ayala,57,1968-01-31,Femenino,Mendoza,7,10,7,Yañez (Maipu),2024-07-25
+Bianca,Rivero,25,2000-08-28,Femenino,Mendoza,6,9,5,Tierras Vivas (Lujan),2024-11-12
+Bianca,Rivero,25,2000-08-28,Femenino,Mendoza,6,9,5,Tierras Vivas (Lujan),2022-02-20
+Bianca,Rivero,25,2000-08-28,Femenino,Mendoza,6,9,5,Yañez (Maipu),2024-07-25
+Fausto,Sosa,28,1997-03-16,Masculino,Mendoza,6,9,9,Tierras Vivas (Lujan),2022-02-20
+Julian,Gonzalez,25,2000-03-29,Masculino,Mendoza,6,9,5,Yañez (Maipu),2025-04-10
+Julian,Gonzalez,25,2000-03-29,Masculino,Mendoza,6,9,5,Tierras Vivas (Lujan),2022-02-20
+Julian,Gonzalez,25,2000-03-29,Masculino,Mendoza,6,9,5,Barrio Grilli Sur (Guaymallén),2022-01-15
+Julian,Gonzalez,25,2000-03-29,Masculino,Mendoza,6,9,5,Barrio Grilli Norte (Guaymallén),2021-04-05
+Abril,Velazquez,19,2006-11-29,Femenino,Santiago del Estero,7,2,3,Barrio Grilli Sur (Guaymallén),2022-01-15
+Abril,Velazquez,19,2006-11-29,Femenino,Santiago del Estero,7,2,3,Tierras Vivas (Lujan),2024-11-12
+Abril,Velazquez,19,2006-11-29,Femenino,Santiago del Estero,7,2,3,Todos Unidos (Las Heras),2023-05-25
+Valentina,Gomez,21,2004-04-17,Femenino,Mendoza,6,6,6,Tierras Vivas (Lujan),2024-11-12
+Valentina,Gomez,21,2004-04-17,Femenino,Mendoza,6,6,6,Barrio Grilli Sur (Guaymallén),2022-01-15
+Valentina,Gomez,21,2004-04-17,Femenino,Mendoza,6,6,6,Tierras Vivas (Lujan),2022-02-20
+Lola,Miranda,44,1981-03-05,Femenino,Mendoza,5,9,9,Tierras Vivas (Lujan),2022-02-20
+Guadalupe,Diaz,19,2006-04-14,Femenino,Mendoza,0,0,0,None,None
+Felicitas,Castillo,23,2002-01-28,Femenino,Mendoza,6,2,5,Tierras Vivas (Lujan),2024-11-12
+Mia,Lopez,48,1977-10-11,Femenino,Mendoza,8,6,5,Todos Unidos (Las Heras),2023-05-25
+Victoria,Medina,24,2001-04-15,Femenino,Mendoza,6,6,3,Barrio Grilli Norte (Guaymallén),2021-04-05
+Victoria,Medina,24,2001-04-15,Femenino,Mendoza,6,6,3,Tierras Vivas (Lujan),2024-11-12
+Victoria,Medina,24,2001-04-15,Femenino,Mendoza,6,6,3,Yañez (Maipu),2025-04-10
+Victoria,Medina,24,2001-04-15,Femenino,Mendoza,6,6,3,Yañez (Maipu),2024-07-25
+Luciano Benjamin,Godoy,21,2004-08-04,Masculino,Mendoza,5,4,2,Todos Unidos (Las Heras),2023-05-25
+Luciano Benjamin,Godoy,21,2004-08-04,Masculino,Mendoza,5,4,2,Barrio Grilli Sur (Guaymallén),2022-01-15
+Mateo,Romero,26,1999-10-26,Masculino,Mendoza,6,6,8,Yañez (Maipu),2024-07-25
+Mateo,Romero,26,1999-10-26,Masculino,Mendoza,6,6,8,Barrio Grilli Norte (Guaymallén),2021-04-05
+Mateo,Romero,26,1999-10-26,Masculino,Mendoza,6,6,8,Tierras Vivas (Lujan),2024-11-12
+Maria Emilia,Martinez,24,2001-01-13,Femenino,Mendoza,6,3,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Lisandro,Ruiz,29,1996-01-26,Masculino,Santiago del Estero,7,6,5,Todos Unidos (Las Heras),2023-05-25
+Lisandro,Ruiz,29,1996-01-26,Masculino,Santiago del Estero,7,6,5,Barrio Grilli Sur (Guaymallén),2022-01-15
+Lisandro,Ruiz,29,1996-01-26,Masculino,Santiago del Estero,7,6,5,Tierras Vivas (Lujan),2024-11-12
+Valentina,Leiva,29,1996-12-06,Femenino,Mendoza,0,0,0,None,None
+Agostina,Diaz,46,1979-07-13,Femenino,Mendoza,6,8,5,Barrio Grilli Norte (Guaymallén),2021-04-05
+Agostina,Diaz,46,1979-07-13,Femenino,Mendoza,6,8,5,Barrio Grilli Sur (Guaymallén),2022-01-15
+Agostina,Diaz,46,1979-07-13,Femenino,Mendoza,6,8,5,Yañez (Maipu),2025-04-10
+Agostina,Diaz,46,1979-07-13,Femenino,Mendoza,6,8,5,Yañez (Maipu),2024-07-25
+Agostina,Diaz,46,1979-07-13,Femenino,Mendoza,6,8,5,Tierras Vivas (Lujan),2022-02-20
+Benicio,Avila,27,1998-06-28,Masculino,Mendoza,9,9,9,Todos Unidos (Las Heras),2023-05-25
+Benicio,Avila,27,1998-06-28,Masculino,Mendoza,9,9,9,Tierras Vivas (Lujan),2024-11-12
+Sofia,Fernandez,28,1997-10-17,Femenino,Mendoza,6,10,10,Todos Unidos (Las Heras),2023-05-25
+Agustina,Perez,19,2006-08-16,Femenino,Mendoza,3,5,2,Yañez (Maipu),2024-07-25
+Agustina,Perez,19,2006-08-16,Femenino,Mendoza,3,5,2,Barrio Grilli Norte (Guaymallén),2021-04-05
+Camila,Nuñez,23,2002-05-21,Femenino,Mendoza,7,6,3,Tierras Vivas (Lujan),2022-02-20
+Camila,Nuñez,23,2002-05-21,Femenino,Mendoza,7,6,3,Yañez (Maipu),2025-04-10
+Camila,Nuñez,23,2002-05-21,Femenino,Mendoza,7,6,3,Barrio Grilli Sur (Guaymallén),2022-01-15
+Camila,Nuñez,23,2002-05-21,Femenino,Mendoza,7,6,3,Todos Unidos (Las Heras),2023-05-25
+Mateo,Franco,50,1975-07-17,Masculino,Mendoza,6,7,5,Yañez (Maipu),2024-07-25
+Mateo,Franco,50,1975-07-17,Masculino,Mendoza,6,7,5,Tierras Vivas (Lujan),2022-02-20
+Mateo,Franco,50,1975-07-17,Masculino,Mendoza,6,7,5,Barrio Grilli Norte (Guaymallén),2021-04-05
+Simon,Navarro,20,2005-12-01,Masculino,Mendoza,4,6,6,Tierras Vivas (Lujan),2024-11-12
+Simon,Navarro,20,2005-12-01,Masculino,Mendoza,4,6,6,Tierras Vivas (Lujan),2022-02-20
+Santino,Morales,22,2003-11-04,Masculino,Mendoza,5,1,1,Barrio Grilli Norte (Guaymallén),2021-04-05
+Santino,Morales,22,2003-11-04,Masculino,Mendoza,5,1,1,Tierras Vivas (Lujan),2024-11-12
+Santino,Morales,22,2003-11-04,Masculino,Mendoza,5,1,1,Todos Unidos (Las Heras),2023-05-25
+Milagros,Luna,22,2003-05-30,Femenino,Mendoza,7,1,1,Tierras Vivas (Lujan),2024-11-12
+Milagros,Luna,22,2003-05-30,Femenino,Mendoza,7,1,1,Todos Unidos (Las Heras),2023-05-25
+Guadalupe,Franco,58,1967-07-25,Femenino,Mendoza,0,0,0,None,None
+Victoria,Castro,24,2001-01-05,Femenino,Mendoza,3,3,2,Yañez (Maipu),2025-04-10
+Matias,Gomez,23,2002-12-10,Masculino,Mendoza,4,7,7,Todos Unidos (Las Heras),2023-05-25
+Matias,Gomez,23,2002-12-10,Masculino,Mendoza,4,7,7,Yañez (Maipu),2024-07-25
+Matias,Gomez,23,2002-12-10,Masculino,Mendoza,4,7,7,Barrio Grilli Sur (Guaymallén),2022-01-15
+Matias,Gomez,23,2002-12-10,Masculino,Mendoza,4,7,7,Tierras Vivas (Lujan),2024-11-12
+Guillermina,Perez,20,2005-09-06,Femenino,Mendoza,4,3,2,Todos Unidos (Las Heras),2023-05-25
+Juan Cruz,Garcia,18,2007-03-03,Masculino,Mendoza,6,3,3,Yañez (Maipu),2025-04-10
+Pedro,Moyano,37,1988-12-06,Masculino,Mendoza,7,5,7,Tierras Vivas (Lujan),2022-02-20
+Agostina,Valdez,28,1997-10-23,Femenino,Santiago del Estero,5,7,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Delfina,Bustos,31,1994-12-05,Femenino,Mendoza,8,9,9,Tierras Vivas (Lujan),2024-11-12
+Delfina,Bustos,31,1994-12-05,Femenino,Mendoza,8,9,9,Tierras Vivas (Lujan),2022-02-20
+Mora,Mansilla,36,1989-07-17,Femenino,Mendoza,10,10,10,Barrio Grilli Norte (Guaymallén),2021-04-05
+Mora,Mansilla,36,1989-07-17,Femenino,Mendoza,10,10,10,Yañez (Maipu),2024-07-25
+Mora,Mansilla,36,1989-07-17,Femenino,Mendoza,10,10,10,Tierras Vivas (Lujan),2024-11-12
+Manuel,Fernandez,24,2001-10-24,Masculino,Mendoza,3,6,3,Tierras Vivas (Lujan),2022-02-20
+Manuel,Fernandez,24,2001-10-24,Masculino,Mendoza,3,6,3,Yañez (Maipu),2024-07-25
+Manuel,Fernandez,24,2001-10-24,Masculino,Mendoza,3,6,3,Yañez (Maipu),2025-04-10
+Delfina,Moyano,23,2002-12-25,Femenino,Mendoza,4,4,6,Barrio Grilli Sur (Guaymallén),2022-01-15
+Valentin,Gonzalez,20,2005-05-06,Masculino,Mendoza,3,3,3,Yañez (Maipu),2024-07-25
+Malena,Gomez,27,1998-05-21,Femenino,Mendoza,6,9,8,Todos Unidos (Las Heras),2023-05-25
+Malena,Gomez,27,1998-05-21,Femenino,Mendoza,6,9,8,Tierras Vivas (Lujan),2024-11-12
+Santiago Benjamin,Rivero,53,1972-04-29,Masculino,Mendoza,0,0,0,None,None
+Victoria,Martinez,23,2002-08-09,Femenino,Mendoza,4,1,1,Barrio Grilli Sur (Guaymallén),2022-01-15
+Victoria,Martinez,23,2002-08-09,Femenino,Mendoza,4,1,1,Tierras Vivas (Lujan),2024-11-12
+Victoria,Martinez,23,2002-08-09,Femenino,Mendoza,4,1,1,Tierras Vivas (Lujan),2022-02-20
+Victoria,Martinez,23,2002-08-09,Femenino,Mendoza,4,1,1,Yañez (Maipu),2025-04-10
+Victoria,Martinez,23,2002-08-09,Femenino,Mendoza,4,1,1,Barrio Grilli Norte (Guaymallén),2021-04-05
+Uma,Rodriguez,19,2006-07-08,Femenino,Mendoza,6,2,2,Yañez (Maipu),2024-07-25
+Uma,Rodriguez,19,2006-07-08,Femenino,Mendoza,6,2,2,Barrio Grilli Sur (Guaymallén),2022-01-15
+Uma,Rodriguez,19,2006-07-08,Femenino,Mendoza,6,2,2,Todos Unidos (Las Heras),2023-05-25
+Uma,Rodriguez,19,2006-07-08,Femenino,Mendoza,6,2,2,Yañez (Maipu),2025-04-10
+Sebastian,Bravo,19,2006-07-26,Masculino,Mendoza,7,4,1,Yañez (Maipu),2025-04-10
+Maria Paz,Fernandez,33,1992-07-03,Femenino,Mendoza,9,7,8,Tierras Vivas (Lujan),2024-11-12
+Maria Paz,Fernandez,33,1992-07-03,Femenino,Mendoza,9,7,8,Yañez (Maipu),2024-07-25
+Maria Paz,Fernandez,33,1992-07-03,Femenino,Mendoza,9,7,8,Yañez (Maipu),2025-04-10
+Juan Francisco,Lopez,26,1999-07-24,Masculino,Mendoza,7,6,10,Todos Unidos (Las Heras),2023-05-25
+Juan Francisco,Lopez,26,1999-07-24,Masculino,Mendoza,7,6,10,Barrio Grilli Sur (Guaymallén),2022-01-15
+Juan Francisco,Lopez,26,1999-07-24,Masculino,Mendoza,7,6,10,Yañez (Maipu),2025-04-10
+Juan Francisco,Lopez,26,1999-07-24,Masculino,Mendoza,7,6,10,Yañez (Maipu),2024-07-25
+Zoe Jazmin,Flores,25,2000-03-23,Femenino,Mendoza,10,7,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Luna,Navarro,26,1999-09-25,Femenino,Mendoza,10,6,10,Todos Unidos (Las Heras),2023-05-25
+Emma,Sanchez,23,2002-09-18,Femenino,Mendoza,6,7,5,Barrio Grilli Sur (Guaymallén),2022-01-15
+Emma,Sanchez,23,2002-09-18,Femenino,Mendoza,6,7,5,Todos Unidos (Las Heras),2023-05-25
+Tiziano,Benitez,27,1998-07-21,Masculino,Mendoza,0,0,0,None,None
+Lola,Martinez,24,2001-01-25,Femenino,Mendoza,6,2,3,Yañez (Maipu),2025-04-10
+Lola,Martinez,24,2001-01-25,Femenino,Mendoza,6,2,3,Yañez (Maipu),2024-07-25
+Lola,Martinez,24,2001-01-25,Femenino,Mendoza,6,2,3,Barrio Grilli Sur (Guaymallén),2022-01-15
+Josefina,Nuñez,23,2002-03-31,Femenino,Mendoza,4,5,5,Tierras Vivas (Lujan),2024-11-12
+Josefina,Nuñez,23,2002-03-31,Femenino,Mendoza,4,5,5,Barrio Grilli Sur (Guaymallén),2022-01-15
+Josefina,Nuñez,23,2002-03-31,Femenino,Mendoza,4,5,5,Todos Unidos (Las Heras),2023-05-25
+Clara,Gonzalez,27,1998-10-02,Femenino,Mendoza,0,0,0,None,None
+Mora,Martinez,35,1990-12-18,Femenino,Mendoza,8,7,7,Barrio Grilli Sur (Guaymallén),2022-01-15
+Benjamin,Romero,24,2001-07-19,Masculino,Mendoza,0,0,0,None,None
+Victoria,Carrizo,23,2002-03-25,Femenino,Mendoza,0,0,0,None,None
+Agustin,Muñoz,18,2007-12-09,Masculino,Mendoza,7,2,2,Barrio Grilli Norte (Guaymallén),2021-04-05
+Julia,Herrera,27,1998-11-01,Femenino,Mendoza,6,9,9,Tierras Vivas (Lujan),2022-02-20
+Julia,Herrera,27,1998-11-01,Femenino,Mendoza,6,9,9,Yañez (Maipu),2025-04-10
+Lorenzo,Ramirez,20,2005-02-06,Masculino,Tucumán,6,4,6,Tierras Vivas (Lujan),2022-02-20
+Lorenzo,Ramirez,20,2005-02-06,Masculino,Tucumán,6,4,6,Yañez (Maipu),2024-07-25
+Catalina,Benitez,28,1997-06-14,Femenino,Mendoza,5,9,5,Tierras Vivas (Lujan),2022-02-20
+Catalina,Benitez,28,1997-06-14,Femenino,Mendoza,5,9,5,Tierras Vivas (Lujan),2024-11-12
+Catalina,Benitez,28,1997-06-14,Femenino,Mendoza,5,9,5,Yañez (Maipu),2024-07-25
+Francesca,Guzman,23,2002-01-22,Femenino,Mendoza,6,1,4,Barrio Grilli Norte (Guaymallén),2021-04-05
+Francesca,Guzman,23,2002-01-22,Femenino,Mendoza,6,1,4,Todos Unidos (Las Heras),2023-05-25
+Salvador,Velazquez,25,2000-02-08,Masculino,Mendoza,10,7,9,Tierras Vivas (Lujan),2024-11-12
+Salvador,Velazquez,25,2000-02-08,Masculino,Mendoza,10,7,9,Yañez (Maipu),2024-07-25
+Bautista,Ojeda,25,2000-11-06,Masculino,Mendoza,6,5,7,Yañez (Maipu),2024-07-25
+Bautista,Ojeda,25,2000-11-06,Masculino,Mendoza,6,5,7,Tierras Vivas (Lujan),2022-02-20
+Bautista,Ojeda,25,2000-11-06,Masculino,Mendoza,6,5,7,Tierras Vivas (Lujan),2024-11-12
+Camilo,Martinez,25,2000-03-14,Masculino,Mendoza,7,6,8,Tierras Vivas (Lujan),2022-02-20
+Camilo,Martinez,25,2000-03-14,Masculino,Mendoza,7,6,8,Barrio Grilli Norte (Guaymallén),2021-04-05
+Camilo,Martinez,25,2000-03-14,Masculino,Mendoza,7,6,8,Todos Unidos (Las Heras),2023-05-25
+Guillermina,Fernandez,23,2002-03-13,Femenino,Mendoza,3,5,2,Tierras Vivas (Lujan),2022-02-20
+Guillermina,Fernandez,23,2002-03-13,Femenino,Mendoza,3,5,2,Yañez (Maipu),2024-07-25
+Emilia,Martinez,25,2000-12-24,Femenino,Mendoza,10,10,8,Todos Unidos (Las Heras),2023-05-25
+Isabella,Cordoba,22,2003-11-29,Femenino,Mendoza,5,4,5,Tierras Vivas (Lujan),2022-02-20
+Isabella,Cordoba,22,2003-11-29,Femenino,Mendoza,5,4,5,Tierras Vivas (Lujan),2024-11-12
+Isabella,Cordoba,22,2003-11-29,Femenino,Mendoza,5,4,5,Yañez (Maipu),2024-07-25
+Bianca,Rodriguez,29,1996-07-28,Femenino,Mendoza,7,7,7,Todos Unidos (Las Heras),2023-05-25
+Alma Valentina,Martin,23,2002-12-26,Femenino,Mendoza,4,2,2,Yañez (Maipu),2025-04-10
+Alma Valentina,Martin,23,2002-12-26,Femenino,Mendoza,4,2,2,Tierras Vivas (Lujan),2024-11-12
+Vicente,Martinez,27,1998-06-07,Masculino,Jujuy,7,6,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Vicente,Martinez,27,1998-06-07,Masculino,Jujuy,7,6,7,Barrio Grilli Sur (Guaymallén),2022-01-15
+Malena,Diaz,26,1999-06-05,Femenino,Mendoza,0,0,0,None,None
+Elena,Lopez,20,2005-01-01,Femenino,Mendoza,5,4,4,Barrio Grilli Norte (Guaymallén),2021-04-05
+Elena,Lopez,20,2005-01-01,Femenino,Mendoza,5,4,4,Yañez (Maipu),2025-04-10
+Elena,Lopez,20,2005-01-01,Femenino,Mendoza,5,4,4,Yañez (Maipu),2024-07-25
+Paula,Perez,18,2007-11-01,Femenino,Mendoza,3,5,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Paula,Perez,18,2007-11-01,Femenino,Mendoza,3,5,6,Yañez (Maipu),2025-04-10
+Paula,Perez,18,2007-11-01,Femenino,Mendoza,3,5,6,Todos Unidos (Las Heras),2023-05-25
+Paula,Perez,18,2007-11-01,Femenino,Mendoza,3,5,6,Yañez (Maipu),2024-07-25
+Federico,Garcia,27,1998-09-28,Masculino,Mendoza,0,0,0,None,None
+Alfonsina,Toledo,24,2001-08-04,Femenino,Mendoza,6,4,3,Barrio Grilli Sur (Guaymallén),2022-01-15
+Alfonsina,Toledo,24,2001-08-04,Femenino,Mendoza,6,4,3,Yañez (Maipu),2024-07-25
+Alfonsina,Toledo,24,2001-08-04,Femenino,Mendoza,6,4,3,Todos Unidos (Las Heras),2023-05-25
+Dante,Suarez,39,1986-03-15,Masculino,Mendoza,0,0,0,None,None
+Francisco,Martin,21,2004-08-12,Masculino,Mendoza,4,2,2,Barrio Grilli Norte (Guaymallén),2021-04-05
+Constanza,Rodriguez,24,2001-05-02,Femenino,Mendoza,4,3,6,Tierras Vivas (Lujan),2022-02-20
+Constanza,Rodriguez,24,2001-05-02,Femenino,Mendoza,4,3,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Isabella,Nuñez,32,1993-07-15,Femenino,Mendoza,8,5,9,Yañez (Maipu),2025-04-10
+Isabella,Nuñez,32,1993-07-15,Femenino,Mendoza,8,5,9,Tierras Vivas (Lujan),2024-11-12
+Isabella,Nuñez,32,1993-07-15,Femenino,Mendoza,8,5,9,Yañez (Maipu),2024-07-25
+Isabella,Nuñez,32,1993-07-15,Femenino,Mendoza,8,5,9,Barrio Grilli Sur (Guaymallén),2022-01-15
+Morena Jazmin,Pereyra,22,2003-01-23,Femenino,Mendoza,0,0,0,None,None
+Florencia,Rodriguez,29,1996-03-13,Femenino,Mendoza,10,8,7,Todos Unidos (Las Heras),2023-05-25
+Florencia,Rodriguez,29,1996-03-13,Femenino,Mendoza,10,8,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Florencia,Rodriguez,29,1996-03-13,Femenino,Mendoza,10,8,7,Yañez (Maipu),2025-04-10
+Florencia,Rodriguez,29,1996-03-13,Femenino,Mendoza,10,8,7,Tierras Vivas (Lujan),2022-02-20
+Isabella,Rodriguez,19,2006-12-01,Femenino,Mendoza,3,1,2,Tierras Vivas (Lujan),2024-11-12
+Isabella,Rodriguez,19,2006-12-01,Femenino,Mendoza,3,1,2,Tierras Vivas (Lujan),2022-02-20
+Isabella,Rodriguez,19,2006-12-01,Femenino,Mendoza,3,1,2,Yañez (Maipu),2024-07-25
+Isabella,Rodriguez,19,2006-12-01,Femenino,Mendoza,3,1,2,Yañez (Maipu),2025-04-10
+Joaquin,Gomez,48,1977-12-12,Masculino,Mendoza,0,0,0,None,None
+Bruno,Silva,48,1977-01-16,Masculino,Mendoza,7,6,9,Todos Unidos (Las Heras),2023-05-25
+Bruno,Silva,48,1977-01-16,Masculino,Mendoza,7,6,9,Yañez (Maipu),2024-07-25
+Bruno,Silva,48,1977-01-16,Masculino,Mendoza,7,6,9,Yañez (Maipu),2025-04-10
+Sofía,Flores,32,1993-08-15,Femenino,Mendoza,5,6,7,Tierras Vivas (Lujan),2022-02-20
+Sofía,Flores,32,1993-08-15,Femenino,Mendoza,5,6,7,Tierras Vivas (Lujan),2024-11-12
+Agustina,Sanchez,28,1997-04-12,Femenino,Mendoza,5,7,7,Yañez (Maipu),2024-07-25
+Agustina,Sanchez,28,1997-04-12,Femenino,Mendoza,5,7,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Agustina,Sanchez,28,1997-04-12,Femenino,Mendoza,5,7,7,Todos Unidos (Las Heras),2023-05-25
+Emma,Vera,42,1983-04-03,Femenino,Mendoza,8,8,5,Barrio Grilli Norte (Guaymallén),2021-04-05
+Emma,Vera,42,1983-04-03,Femenino,Mendoza,8,8,5,Tierras Vivas (Lujan),2024-11-12
+Emma,Vera,42,1983-04-03,Femenino,Mendoza,8,8,5,Yañez (Maipu),2024-07-25
+Emilia,Fernandez,25,2000-09-07,Femenino,Mendoza,6,7,8,Barrio Grilli Sur (Guaymallén),2022-01-15
+Emilia,Fernandez,25,2000-09-07,Femenino,Mendoza,6,7,8,Tierras Vivas (Lujan),2022-02-20
+Emilia,Fernandez,25,2000-09-07,Femenino,Mendoza,6,7,8,Yañez (Maipu),2024-07-25
+Francisco,Sanchez,18,2007-10-19,Masculino,La Rioja,7,1,5,Tierras Vivas (Lujan),2024-11-12
+Francisco,Sanchez,18,2007-10-19,Masculino,La Rioja,7,1,5,Barrio Grilli Sur (Guaymallén),2022-01-15
+Francisco,Sanchez,18,2007-10-19,Masculino,La Rioja,7,1,5,Tierras Vivas (Lujan),2022-02-20
+Francisca,Gonzalez,19,2006-08-30,Femenino,Mendoza,4,4,6,Yañez (Maipu),2025-04-10
+Nahiara Jazmin,Franco,24,2001-01-29,Femenino,Mendoza,4,5,5,Barrio Grilli Sur (Guaymallén),2022-01-15
+Nahiara Jazmin,Franco,24,2001-01-29,Femenino,Mendoza,4,5,5,Todos Unidos (Las Heras),2023-05-25
+Nahiara Jazmin,Franco,24,2001-01-29,Femenino,Mendoza,4,5,5,Yañez (Maipu),2024-07-25
+Nahiara Jazmin,Franco,24,2001-01-29,Femenino,Mendoza,4,5,5,Yañez (Maipu),2025-04-10
+Nahiara Jazmin,Franco,24,2001-01-29,Femenino,Mendoza,4,5,5,Tierras Vivas (Lujan),2024-11-12
+Agustin,Gimenez,19,2006-02-21,Masculino,Mendoza,5,7,1,Todos Unidos (Las Heras),2023-05-25
+Agustin,Gimenez,19,2006-02-21,Masculino,Mendoza,5,7,1,Tierras Vivas (Lujan),2022-02-20
+Agustin,Gimenez,19,2006-02-21,Masculino,Mendoza,5,7,1,Yañez (Maipu),2024-07-25
+Francisca,Lucero,27,1998-12-08,Femenino,Mendoza,9,8,7,Yañez (Maipu),2025-04-10
+Francisca,Lucero,27,1998-12-08,Femenino,Mendoza,9,8,7,Barrio Grilli Sur (Guaymallén),2022-01-15
+Francisca,Lucero,27,1998-12-08,Femenino,Mendoza,9,8,7,Todos Unidos (Las Heras),2023-05-25
+Victoria,Garcia,24,2001-06-20,Femenino,Mendoza,4,5,4,Barrio Grilli Sur (Guaymallén),2022-01-15
+Micaela,Quiroga,18,2007-08-26,Femenino,Mendoza,6,6,7,Yañez (Maipu),2025-04-10
+Micaela,Quiroga,18,2007-08-26,Femenino,Mendoza,6,6,7,Todos Unidos (Las Heras),2023-05-25
+Mateo Agustin,Cordoba,45,1980-07-24,Masculino,Salta,5,8,5,Yañez (Maipu),2024-07-25
+Mateo Agustin,Cordoba,45,1980-07-24,Masculino,Salta,5,8,5,Tierras Vivas (Lujan),2022-02-20
+Martina,Maldonado,29,1996-04-26,Femenino,Mendoza,7,9,10,Barrio Grilli Sur (Guaymallén),2022-01-15
+Martina,Maldonado,29,1996-04-26,Femenino,Mendoza,7,9,10,Barrio Grilli Norte (Guaymallén),2021-04-05
+Martina,Maldonado,29,1996-04-26,Femenino,Mendoza,7,9,10,Todos Unidos (Las Heras),2023-05-25
+Martina,Maldonado,29,1996-04-26,Femenino,Mendoza,7,9,10,Tierras Vivas (Lujan),2022-02-20
+Luna,Gomez,23,2002-12-08,Femenino,Mendoza,7,1,2,Todos Unidos (Las Heras),2023-05-25
+Luna,Gomez,23,2002-12-08,Femenino,Mendoza,7,1,2,Tierras Vivas (Lujan),2022-02-20
+Luna,Gomez,23,2002-12-08,Femenino,Mendoza,7,1,2,Yañez (Maipu),2025-04-10
+Luna,Gomez,23,2002-12-08,Femenino,Mendoza,7,1,2,Barrio Grilli Norte (Guaymallén),2021-04-05
+Juan Ignacio,Gomez,37,1988-02-11,Masculino,Mendoza,10,5,8,Barrio Grilli Norte (Guaymallén),2021-04-05
+Juan Ignacio,Gomez,37,1988-02-11,Masculino,Mendoza,10,5,8,Tierras Vivas (Lujan),2024-11-12
+Lucia,Fernandez,18,2007-04-20,Femenino,Mendoza,6,2,2,Tierras Vivas (Lujan),2022-02-20
+Lucia,Fernandez,18,2007-04-20,Femenino,Mendoza,6,2,2,Yañez (Maipu),2025-04-10
+Lucia,Fernandez,18,2007-04-20,Femenino,Mendoza,6,2,2,Tierras Vivas (Lujan),2024-11-12
+Mia,Vera,20,2005-03-21,Femenino,Mendoza,0,0,0,None,None
+Juan Martin,Roldan,21,2004-07-15,Masculino,Mendoza,5,4,3,Barrio Grilli Sur (Guaymallén),2022-01-15
+Juan Martin,Roldan,21,2004-07-15,Masculino,Mendoza,5,4,3,Todos Unidos (Las Heras),2023-05-25
+Simon,Barrios,44,1981-11-25,Masculino,Mendoza,7,9,7,Barrio Grilli Sur (Guaymallén),2022-01-15
+Simon,Barrios,44,1981-11-25,Masculino,Mendoza,7,9,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Simon,Barrios,44,1981-11-25,Masculino,Mendoza,7,9,7,Todos Unidos (Las Heras),2023-05-25
+Benjamin,Godoy,22,2003-11-19,Masculino,Mendoza,6,1,2,Todos Unidos (Las Heras),2023-05-25
+Emilia,Gonzalez,22,2003-10-27,Femenino,San Luis,0,0,0,None,None
+Juan Ignacio,Chavez,18,2007-03-04,Masculino,Mendoza,6,7,3,Tierras Vivas (Lujan),2024-11-12
+Juan Ignacio,Chavez,18,2007-03-04,Masculino,Mendoza,6,7,3,Barrio Grilli Norte (Guaymallén),2021-04-05
+Juan Ignacio,Chavez,18,2007-03-04,Masculino,Mendoza,6,7,3,Yañez (Maipu),2024-07-25
+Jeremias,Molina,23,2002-06-16,Masculino,Mendoza,4,6,1,Tierras Vivas (Lujan),2022-02-20
+Maximo,Gomez,22,2003-12-09,Masculino,Mendoza,0,0,0,None,None
+Valentina ,Fernandez,22,2003-01-14,Femenino,Mendoza,7,3,5,Barrio Grilli Sur (Guaymallén),2022-01-15
+Valentina ,Fernandez,22,2003-01-14,Femenino,Mendoza,7,3,5,Yañez (Maipu),2025-04-10
+Micaela,Nuñez,20,2005-02-27,Femenino,Mendoza,3,4,1,Todos Unidos (Las Heras),2023-05-25
+Micaela,Nuñez,20,2005-02-27,Femenino,Mendoza,3,4,1,Tierras Vivas (Lujan),2022-02-20
+Micaela,Nuñez,20,2005-02-27,Femenino,Mendoza,3,4,1,Tierras Vivas (Lujan),2024-11-12
+Camila,Gonzalez,57,1968-05-21,Femenino,Mendoza,5,8,5,Todos Unidos (Las Heras),2023-05-25
+Camila,Gonzalez,57,1968-05-21,Femenino,Mendoza,5,8,5,Yañez (Maipu),2024-07-25
+Camila,Gonzalez,57,1968-05-21,Femenino,Mendoza,5,8,5,Tierras Vivas (Lujan),2022-02-20
+Elena,Arias,23,2002-12-01,Femenino,Mendoza,3,6,2,Yañez (Maipu),2024-07-25
+Elena,Arias,23,2002-12-01,Femenino,Mendoza,3,6,2,Todos Unidos (Las Heras),2023-05-25
+Elena,Arias,23,2002-12-01,Femenino,Mendoza,3,6,2,Tierras Vivas (Lujan),2022-02-20
+Martina,Sosa,26,1999-09-22,Femenino,Mendoza,10,8,10,Tierras Vivas (Lujan),2024-11-12
+Martina,Sosa,26,1999-09-22,Femenino,Mendoza,10,8,10,Barrio Grilli Norte (Guaymallén),2021-04-05
+Victoria,Gomez,20,2005-10-30,Femenino,Mendoza,0,0,0,None,None
+Maximo,Hernandez,21,2004-08-29,Masculino,Mendoza,5,6,6,Todos Unidos (Las Heras),2023-05-25
+Vicente,Blanco,27,1998-04-02,Masculino,Mendoza,10,5,8,Todos Unidos (Las Heras),2023-05-25
+Milo,Bravo,38,1987-11-11,Masculino,Mendoza,8,6,7,Todos Unidos (Las Heras),2023-05-25
+Delfina,Ramirez,26,1999-03-11,Femenino,Mendoza,7,6,5,Barrio Grilli Norte (Guaymallén),2021-04-05
+Delfina,Ramirez,26,1999-03-11,Femenino,Mendoza,7,6,5,Todos Unidos (Las Heras),2023-05-25
+Santino Benjamin,Romero,32,1993-12-28,Masculino,Mendoza,5,7,6,Yañez (Maipu),2024-07-25
+Santino Benjamin,Romero,32,1993-12-28,Masculino,Mendoza,5,7,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Guadalupe,Carrizo,21,2004-10-12,Masculino,Mendoza,4,3,7,Barrio Grilli Sur (Guaymallén),2022-01-15
+Guadalupe,Carrizo,21,2004-10-12,Masculino,Mendoza,4,3,7,Yañez (Maipu),2024-07-25
+Guadalupe,Carrizo,21,2004-10-12,Masculino,Mendoza,4,3,7,Yañez (Maipu),2025-04-10
+Sol,Perez,30,1995-11-02,Femenino,Mendoza,10,5,6,Barrio Grilli Sur (Guaymallén),2022-01-15
+Sol,Perez,30,1995-11-02,Femenino,Mendoza,10,5,6,Yañez (Maipu),2024-07-25
+Sol,Perez,30,1995-11-02,Femenino,Mendoza,10,5,6,Tierras Vivas (Lujan),2022-02-20
+Sol,Perez,30,1995-11-02,Femenino,Mendoza,10,5,6,Yañez (Maipu),2025-04-10
+Sol,Perez,30,1995-11-02,Femenino,Mendoza,10,5,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Felicitas,Alvarez,21,2004-01-16,Femenino,Mendoza,0,0,0,None,None
+Antonia,Diaz,24,2001-11-14,Femenino,Mendoza,7,5,1,Todos Unidos (Las Heras),2023-05-25
+Antonia,Diaz,24,2001-11-14,Femenino,Mendoza,7,5,1,Yañez (Maipu),2025-04-10
+Antonia,Diaz,24,2001-11-14,Femenino,Mendoza,7,5,1,Tierras Vivas (Lujan),2022-02-20
+Morena Jazmin,Sosa,27,1998-11-15,Femenino,Mendoza,7,8,10,Yañez (Maipu),2025-04-10
+Morena Jazmin,Sosa,27,1998-11-15,Femenino,Mendoza,7,8,10,Tierras Vivas (Lujan),2024-11-12
+Morena Jazmin,Sosa,27,1998-11-15,Femenino,Mendoza,7,8,10,Yañez (Maipu),2024-07-25
+Lucio,Martinez,25,2000-01-10,Masculino,Mendoza,10,8,5,Barrio Grilli Norte (Guaymallén),2021-04-05
+Lucio,Martinez,25,2000-01-10,Masculino,Mendoza,10,8,5,Todos Unidos (Las Heras),2023-05-25
+Dante,Ruiz,20,2005-04-19,Masculino,Mendoza,7,5,6,Tierras Vivas (Lujan),2024-11-12
+Milena,Martin,46,1979-04-19,Femenino,Mendoza,10,5,10,Todos Unidos (Las Heras),2023-05-25
+Milena,Martin,46,1979-04-19,Femenino,Mendoza,10,5,10,Barrio Grilli Norte (Guaymallén),2021-04-05
+Juan Cruz,Gimenez,29,1996-09-20,Masculino,Mendoza,7,8,8,Barrio Grilli Sur (Guaymallén),2022-01-15
+Juan Cruz,Gimenez,29,1996-09-20,Masculino,Mendoza,7,8,8,Todos Unidos (Las Heras),2023-05-25
+Carmela,Rojas,24,2001-01-11,Femenino,Mendoza,6,1,1,Barrio Grilli Sur (Guaymallén),2022-01-15
+Santino,Valdez,19,2006-03-11,Masculino,Mendoza,7,1,5,Barrio Grilli Sur (Guaymallén),2022-01-15
+Mateo Benjamin,Velazquez,28,1997-01-15,Masculino,Mendoza,8,10,5,Tierras Vivas (Lujan),2024-11-12
+Santino,Benitez,23,2002-10-10,Masculino,Mendoza,6,2,7,Barrio Grilli Sur (Guaymallén),2022-01-15
+Santino,Benitez,23,2002-10-10,Masculino,Mendoza,6,2,7,Tierras Vivas (Lujan),2024-11-12
+Zoe,Benitez,41,1984-07-17,Femenino,Mendoza,8,9,9,Barrio Grilli Sur (Guaymallén),2022-01-15
+Santino,Mendoza,18,2007-03-15,Masculino,Mendoza,4,3,6,Tierras Vivas (Lujan),2024-11-12
+Santino,Mendoza,18,2007-03-15,Masculino,Mendoza,4,3,6,Tierras Vivas (Lujan),2022-02-20
+Santino,Mendoza,18,2007-03-15,Masculino,Mendoza,4,3,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Joaquin,Vega,41,1984-01-01,Masculino,Mendoza,6,10,10,Yañez (Maipu),2024-07-25
+Joaquin,Vega,41,1984-01-01,Masculino,Mendoza,6,10,10,Tierras Vivas (Lujan),2024-11-12
+Joaquin,Vega,41,1984-01-01,Masculino,Mendoza,6,10,10,Todos Unidos (Las Heras),2023-05-25
+Joaquin,Vega,41,1984-01-01,Masculino,Mendoza,6,10,10,Barrio Grilli Norte (Guaymallén),2021-04-05
+Facundo,Cordoba,26,1999-09-24,Masculino,Mendoza,7,7,10,Tierras Vivas (Lujan),2022-02-20
+Facundo,Cordoba,26,1999-09-24,Masculino,Mendoza,7,7,10,Barrio Grilli Sur (Guaymallén),2022-01-15
+Agostina,Villalba,49,1976-09-17,Femenino,Mendoza,0,0,0,None,None
+Emma,Benitez,28,1997-09-15,Femenino,Mendoza,9,8,8,Todos Unidos (Las Heras),2023-05-25
+Emma,Benitez,28,1997-09-15,Femenino,Mendoza,9,8,8,Yañez (Maipu),2025-04-10
+Joaquina,Rios,19,2006-09-15,Femenino,Mendoza,7,4,5,Tierras Vivas (Lujan),2024-11-12
+Alejo,Muñoz,24,2001-04-27,Masculino,Córdoba,0,0,0,None,None
+Pilar,Carrizo,20,2005-05-07,Femenino,Mendoza,3,4,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Olivia,Garcia,26,1999-02-19,Femenino,Mendoza,7,5,8,Yañez (Maipu),2025-04-10
+Olivia,Garcia,26,1999-02-19,Femenino,Mendoza,7,5,8,Tierras Vivas (Lujan),2024-11-12
+Felipe,Dominguez,18,2007-05-28,Masculino,Mendoza,0,0,0,None,None
+Milagros,Barrios,24,2001-08-28,Femenino,Mendoza,3,3,2,Barrio Grilli Norte (Guaymallén),2021-04-05
+Milagros,Barrios,24,2001-08-28,Femenino,Mendoza,3,3,2,Todos Unidos (Las Heras),2023-05-25
+Maximo,Ramirez,29,1996-11-19,Masculino,Mendoza,0,0,0,None,None
+Benjamin,Garcia,27,1998-06-16,Masculino,Mendoza,0,0,0,None,None
+Federico,Juarez,21,2004-05-05,Masculino,Mendoza,3,5,5,Yañez (Maipu),2024-07-25
+Renata,Benitez,23,2002-03-24,Femenino,Mendoza,3,2,3,Yañez (Maipu),2025-04-10
+Renata,Benitez,23,2002-03-24,Femenino,Mendoza,3,2,3,Barrio Grilli Sur (Guaymallén),2022-01-15
+Renata,Benitez,23,2002-03-24,Femenino,Mendoza,3,2,3,Tierras Vivas (Lujan),2024-11-12
+Pilar,Arias,28,1997-11-06,Femenino,Mendoza,9,10,10,Tierras Vivas (Lujan),2024-11-12
+Pilar,Arias,28,1997-11-06,Femenino,Mendoza,9,10,10,Todos Unidos (Las Heras),2023-05-25
+Pilar,Arias,28,1997-11-06,Femenino,Mendoza,9,10,10,Yañez (Maipu),2025-04-10
+Pilar,Arias,28,1997-11-06,Femenino,Mendoza,9,10,10,Yañez (Maipu),2024-07-25
+Pilar,Arias,28,1997-11-06,Femenino,Mendoza,9,10,10,Tierras Vivas (Lujan),2022-02-20
+Santino Benjamin,Dominguez,28,1997-04-21,Masculino,Mendoza,10,7,7,Todos Unidos (Las Heras),2023-05-25
+Santino Benjamin,Dominguez,28,1997-04-21,Masculino,Mendoza,10,7,7,Yañez (Maipu),2025-04-10
+Pilar,Godoy,19,2006-05-11,Femenino,Mendoza,5,1,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Pilar,Godoy,19,2006-05-11,Femenino,Mendoza,5,1,6,Tierras Vivas (Lujan),2022-02-20
+Santino,Moyano,49,1976-04-01,Masculino,Mendoza,9,10,5,Yañez (Maipu),2024-07-25
+Ambar,Martinez,50,1975-03-19,Femenino,Mendoza,5,8,5,Yañez (Maipu),2024-07-25
+Ambar,Martinez,50,1975-03-19,Femenino,Mendoza,5,8,5,Barrio Grilli Sur (Guaymallén),2022-01-15
+Juan Ignacio,Gonzalez,52,1973-07-04,Masculino,Mendoza,10,8,8,Barrio Grilli Norte (Guaymallén),2021-04-05
+Juan Ignacio,Gonzalez,52,1973-07-04,Masculino,Mendoza,10,8,8,Barrio Grilli Sur (Guaymallén),2022-01-15
+Mia,Vazquez,23,2002-06-26,Femenino,Mendoza,5,6,5,Todos Unidos (Las Heras),2023-05-25
+Francesca,Morales,23,2002-03-17,Femenino,Mendoza,0,0,0,None,None
+Agustín,Alvarez,29,1996-06-04,Masculino,Mendoza,10,6,7,Yañez (Maipu),2024-07-25
+Agustín,Alvarez,29,1996-06-04,Masculino,Mendoza,10,6,7,Barrio Grilli Sur (Guaymallén),2022-01-15
+Agustín,Alvarez,29,1996-06-04,Masculino,Mendoza,10,6,7,Tierras Vivas (Lujan),2022-02-20
+Agustín,Alvarez,29,1996-06-04,Masculino,Mendoza,10,6,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Agustín,Alvarez,29,1996-06-04,Masculino,Mendoza,10,6,7,Yañez (Maipu),2025-04-10
+Victoria,Ferreyra,28,1997-01-03,Femenino,Mendoza,9,8,10,Barrio Grilli Norte (Guaymallén),2021-04-05
+Victoria,Ferreyra,28,1997-01-03,Femenino,Mendoza,9,8,10,Tierras Vivas (Lujan),2022-02-20
+Martín,Guzman,51,1974-12-10,Masculino,Mendoza,9,7,5,Tierras Vivas (Lujan),2024-11-12
+Martín,Guzman,51,1974-12-10,Masculino,Mendoza,9,7,5,Yañez (Maipu),2024-07-25
+Martín,Guzman,51,1974-12-10,Masculino,Mendoza,9,7,5,Barrio Grilli Norte (Guaymallén),2021-04-05
+Martín,Guzman,51,1974-12-10,Masculino,Mendoza,9,7,5,Todos Unidos (Las Heras),2023-05-25
+Catalina,Flores,21,2004-03-09,Femenino,Mendoza,4,1,3,Barrio Grilli Sur (Guaymallén),2022-01-15
+Catalina,Flores,21,2004-03-09,Femenino,Mendoza,4,1,3,Yañez (Maipu),2025-04-10
+Catalina,Flores,21,2004-03-09,Femenino,Mendoza,4,1,3,Tierras Vivas (Lujan),2024-11-12
+Lisandro,Ledesma,26,1999-06-30,Masculino,Mendoza,9,8,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Lisandro,Ledesma,26,1999-06-30,Masculino,Mendoza,9,8,6,Tierras Vivas (Lujan),2024-11-12
+Lisandro,Ledesma,26,1999-06-30,Masculino,Mendoza,9,8,6,Tierras Vivas (Lujan),2022-02-20
+Lisandro,Ledesma,26,1999-06-30,Masculino,Mendoza,9,8,6,Barrio Grilli Sur (Guaymallén),2022-01-15
+Isabella,Martinez,54,1971-11-26,Femenino,Mendoza,7,10,10,Tierras Vivas (Lujan),2024-11-12
+Isabella,Martinez,54,1971-11-26,Femenino,Mendoza,7,10,10,Todos Unidos (Las Heras),2023-05-25
+Isabella,Martinez,54,1971-11-26,Femenino,Mendoza,7,10,10,Barrio Grilli Norte (Guaymallén),2021-04-05
+Isabella,Martinez,54,1971-11-26,Femenino,Mendoza,7,10,10,Yañez (Maipu),2025-04-10
+Catalina,Fernandez,22,2003-06-30,Femenino,Mendoza,5,7,7,Barrio Grilli Sur (Guaymallén),2022-01-15
+Catalina,Fernandez,22,2003-06-30,Femenino,Mendoza,5,7,7,Yañez (Maipu),2024-07-25
+Catalina,Fernandez,22,2003-06-30,Femenino,Mendoza,5,7,7,Yañez (Maipu),2025-04-10
+Ambar,Olivera,41,1984-08-19,Femenino,Mendoza,7,8,9,Todos Unidos (Las Heras),2023-05-25
+Ambar,Olivera,41,1984-08-19,Femenino,Mendoza,7,8,9,Yañez (Maipu),2025-04-10
+Julieta,Navarro,56,1969-06-21,Femenino,Mendoza,5,10,8,Yañez (Maipu),2025-04-10
+Julieta,Navarro,56,1969-06-21,Femenino,Mendoza,5,10,8,Tierras Vivas (Lujan),2022-02-20
+Nicolas,Muñoz,19,2006-07-16,Masculino,Mendoza,3,7,2,Barrio Grilli Norte (Guaymallén),2021-04-05
+Nicolas,Muñoz,19,2006-07-16,Masculino,Mendoza,3,7,2,Tierras Vivas (Lujan),2022-02-20
+Camila,Barrios,34,1991-06-23,Femenino,Mendoza,0,0,0,None,None
+Francesco,Villalba,58,1967-07-04,Masculino,Mendoza,0,0,0,None,None
+Lola,Cardozo,21,2004-11-22,Femenino,Mendoza,0,0,0,None,None
+Ana Paula,Vazquez,19,2006-07-22,Femenino,Mendoza,4,1,3,Yañez (Maipu),2025-04-10
+Ana Paula,Vazquez,19,2006-07-22,Femenino,Mendoza,4,1,3,Barrio Grilli Sur (Guaymallén),2022-01-15
+Simon,Martinez,20,2005-06-20,Masculino,Mendoza,3,1,3,Yañez (Maipu),2024-07-25
+Simon,Martinez,20,2005-06-20,Masculino,Mendoza,3,1,3,Barrio Grilli Norte (Guaymallén),2021-04-05
+Isabella,Garcia,29,1996-04-15,Femenino,Mendoza,6,7,5,Yañez (Maipu),2025-04-10
+Isabella,Garcia,29,1996-04-15,Femenino,Mendoza,6,7,5,Tierras Vivas (Lujan),2022-02-20
+Josefina,Escobar,27,1998-02-01,Femenino,Mendoza,9,9,5,Todos Unidos (Las Heras),2023-05-25
+Juan Ignacio,Martinez,29,1996-09-26,Masculino,Mendoza,6,9,8,Yañez (Maipu),2024-07-25
+Juan Ignacio,Martinez,29,1996-09-26,Masculino,Mendoza,6,9,8,Tierras Vivas (Lujan),2022-02-20
+Sofia,Diaz,26,1999-06-11,Femenino,Santa Fe,8,5,10,Yañez (Maipu),2024-07-25
+Sofia,Diaz,26,1999-06-11,Femenino,Santa Fe,8,5,10,Yañez (Maipu),2025-04-10
+Sofia,Diaz,26,1999-06-11,Femenino,Santa Fe,8,5,10,Tierras Vivas (Lujan),2024-11-12
+Sofia,Diaz,26,1999-06-11,Femenino,Santa Fe,8,5,10,Barrio Grilli Norte (Guaymallén),2021-04-05
+Sofia,Diaz,26,1999-06-11,Femenino,Santa Fe,8,5,10,Barrio Grilli Sur (Guaymallén),2022-01-15
+Francesca,Molina,29,1996-06-10,Femenino,Mendoza,9,10,7,Tierras Vivas (Lujan),2022-02-20
+Francesca,Molina,29,1996-06-10,Femenino,Mendoza,9,10,7,Barrio Grilli Sur (Guaymallén),2022-01-15
+Francesca,Molina,29,1996-06-10,Femenino,Mendoza,9,10,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Isabella,Miranda,23,2002-06-01,Femenino,Mendoza,6,6,4,Yañez (Maipu),2025-04-10
+Geronimo,Nuñez,32,1993-09-28,Masculino,Mendoza,6,5,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Geronimo,Nuñez,32,1993-09-28,Masculino,Mendoza,6,5,7,Tierras Vivas (Lujan),2022-02-20
+Geronimo,Nuñez,32,1993-09-28,Masculino,Mendoza,6,5,7,Barrio Grilli Sur (Guaymallén),2022-01-15
+Geronimo,Nuñez,32,1993-09-28,Masculino,Mendoza,6,5,7,Yañez (Maipu),2025-04-10
+Benjamin,Lucero,26,1999-08-12,Masculino,Mendoza,0,0,0,None,None
+Lautaro,Gonzalez,18,2007-05-17,Masculino,Mendoza,5,4,4,Barrio Grilli Norte (Guaymallén),2021-04-05
+Francisco,Alvarez,42,1983-12-13,Masculino,Mendoza,8,7,9,Tierras Vivas (Lujan),2024-11-12
+Kiara,Flores,24,2001-10-18,Femenino,Mendoza,7,3,3,Yañez (Maipu),2025-04-10
+Kiara,Flores,24,2001-10-18,Femenino,Mendoza,7,3,3,Barrio Grilli Sur (Guaymallén),2022-01-15
+Constanza,Figueroa,22,2003-12-15,Femenino,Mendoza,6,3,4,Todos Unidos (Las Heras),2023-05-25
+Constanza,Figueroa,22,2003-12-15,Femenino,Mendoza,6,3,4,Barrio Grilli Sur (Guaymallén),2022-01-15
+Valentina,Diaz,41,1984-06-18,Femenino,Mendoza,5,10,10,Tierras Vivas (Lujan),2024-11-12
+Valentina,Diaz,41,1984-06-18,Femenino,Mendoza,5,10,10,Barrio Grilli Norte (Guaymallén),2021-04-05
+Malena,Alvarez,29,1996-09-16,Femenino,Mendoza,5,6,10,Barrio Grilli Sur (Guaymallén),2022-01-15
+Malena,Alvarez,29,1996-09-16,Femenino,Mendoza,5,6,10,Yañez (Maipu),2024-07-25
+Malena,Alvarez,29,1996-09-16,Femenino,Mendoza,5,6,10,Todos Unidos (Las Heras),2023-05-25
+Malena,Alvarez,29,1996-09-16,Femenino,Mendoza,5,6,10,Barrio Grilli Norte (Guaymallén),2021-04-05
+Malena,Alvarez,29,1996-09-16,Femenino,Mendoza,5,6,10,Tierras Vivas (Lujan),2024-11-12
+Milagros,Ruiz,27,1998-03-06,Femenino,Mendoza,7,7,8,Todos Unidos (Las Heras),2023-05-25
+Lautaro Ezequiel,Ayala,26,1999-08-30,Masculino,Mendoza,6,5,5,Tierras Vivas (Lujan),2022-02-20
+Valentin,Barrios,24,2001-08-18,Masculino,Mendoza,5,6,4,Yañez (Maipu),2025-04-10
+Agustina,Gonzalez,29,1996-09-06,Femenino,Mendoza,5,8,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Agustina,Gonzalez,29,1996-09-06,Femenino,Mendoza,5,8,6,Barrio Grilli Sur (Guaymallén),2022-01-15
+Thiago,Aguero,19,2006-03-12,Masculino,Mendoza,7,3,3,Tierras Vivas (Lujan),2022-02-20
+Thiago,Aguero,19,2006-03-12,Masculino,Mendoza,7,3,3,Tierras Vivas (Lujan),2024-11-12
+Thiago,Aguero,19,2006-03-12,Masculino,Mendoza,7,3,3,Yañez (Maipu),2025-04-10
+Thiago,Aguero,19,2006-03-12,Masculino,Mendoza,7,3,3,Barrio Grilli Norte (Guaymallén),2021-04-05
+Thiago,Aguero,19,2006-03-12,Masculino,Mendoza,7,3,3,Yañez (Maipu),2024-07-25
+Benjamin,Alvarez,29,1996-03-23,Masculino,Mendoza,6,6,6,Yañez (Maipu),2024-07-25
+Benjamin,Alvarez,29,1996-03-23,Masculino,Mendoza,6,6,6,Barrio Grilli Sur (Guaymallén),2022-01-15
+Benjamin,Alvarez,29,1996-03-23,Masculino,Mendoza,6,6,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Pedro,Romero,26,1999-12-08,Masculino,Mendoza,9,5,5,Yañez (Maipu),2024-07-25
+Pedro,Romero,26,1999-12-08,Masculino,Mendoza,9,5,5,Barrio Grilli Sur (Guaymallén),2022-01-15
+Guadalupe,Cardozo,53,1972-11-19,Femenino,Mendoza,5,6,7,Todos Unidos (Las Heras),2023-05-25
+Guadalupe,Cardozo,53,1972-11-19,Femenino,Mendoza,5,6,7,Yañez (Maipu),2024-07-25
+Thiago,Miranda,28,1997-07-02,Masculino,Mendoza,9,10,9,Yañez (Maipu),2025-04-10
+Martina,Rojas,43,1982-05-16,Femenino,Mendoza,7,6,6,Yañez (Maipu),2025-04-10
+Martina,Rojas,43,1982-05-16,Femenino,Mendoza,7,6,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Martina,Rojas,43,1982-05-16,Femenino,Mendoza,7,6,6,Yañez (Maipu),2024-07-25
+Martina,Rojas,43,1982-05-16,Femenino,Mendoza,7,6,6,Barrio Grilli Sur (Guaymallén),2022-01-15
+Valentina,Rodriguez,23,2002-09-11,Femenino,Mendoza,5,2,6,Tierras Vivas (Lujan),2022-02-20
+Valentina,Rodriguez,23,2002-09-11,Femenino,Mendoza,5,2,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Benjamin,Gonzalez,28,1997-04-07,Masculino,Mendoza,6,9,9,Yañez (Maipu),2024-07-25
+Benjamin,Gonzalez,28,1997-04-07,Masculino,Mendoza,6,9,9,Tierras Vivas (Lujan),2024-11-12
+Emma,Gonzalez,29,1996-02-29,Femenino,Mendoza,5,5,5,Yañez (Maipu),2024-07-25
+Victoria,Herrera,27,1998-02-14,Femenino,Mendoza,8,9,10,Yañez (Maipu),2024-07-25
+Agustina,Diaz,47,1978-09-29,Femenino,Mendoza,5,10,5,Todos Unidos (Las Heras),2023-05-25
+Agustina,Diaz,47,1978-09-29,Femenino,Mendoza,5,10,5,Barrio Grilli Sur (Guaymallén),2022-01-15
+Agustina,Diaz,47,1978-09-29,Femenino,Mendoza,5,10,5,Yañez (Maipu),2025-04-10
+Agustina,Diaz,47,1978-09-29,Femenino,Mendoza,5,10,5,Tierras Vivas (Lujan),2022-02-20
+Agustina,Diaz,47,1978-09-29,Femenino,Mendoza,5,10,5,Tierras Vivas (Lujan),2024-11-12
+Victoria,Torres,25,2000-08-23,Femenino,Mendoza,7,10,7,Tierras Vivas (Lujan),2022-02-20
+Victoria,Torres,25,2000-08-23,Femenino,Mendoza,7,10,7,Tierras Vivas (Lujan),2024-11-12
+Manuel,Cardozo,23,2002-02-14,Masculino,Mendoza,6,1,3,Barrio Grilli Sur (Guaymallén),2022-01-15
+Maria Emilia,Lopez,18,2007-05-01,Femenino,Mendoza,6,2,7,Yañez (Maipu),2024-07-25
+Santino,Gonzalez,59,1966-05-02,Masculino,Mendoza,6,8,9,Yañez (Maipu),2025-04-10
+Julia,Bustos,45,1980-05-25,Femenino,Mendoza,9,7,5,Yañez (Maipu),2024-07-25
+Julia,Bustos,45,1980-05-25,Femenino,Mendoza,9,7,5,Todos Unidos (Las Heras),2023-05-25
+Julia,Bustos,45,1980-05-25,Femenino,Mendoza,9,7,5,Barrio Grilli Sur (Guaymallén),2022-01-15
+Julia,Bustos,45,1980-05-25,Femenino,Mendoza,9,7,5,Yañez (Maipu),2025-04-10
+Olivia,Vera,28,1997-01-30,Femenino,Mendoza,5,8,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Juan Pablo,Rivero,24,2001-04-05,Masculino,Mendoza,4,3,5,Yañez (Maipu),2024-07-25
+Juan Pablo,Rivero,24,2001-04-05,Masculino,Mendoza,4,3,5,Yañez (Maipu),2025-04-10
+Catalina,Ramos,25,2000-11-26,Femenino,Mendoza,10,9,5,Yañez (Maipu),2024-07-25
+Antonella,Cordoba,23,2002-11-06,Femenino,Mendoza,4,2,5,Tierras Vivas (Lujan),2022-02-20
+Isabel,Vargas,18,2007-05-15,Femenino,Mendoza,6,2,5,Yañez (Maipu),2025-04-10
+Isabel,Vargas,18,2007-05-15,Femenino,Mendoza,6,2,5,Todos Unidos (Las Heras),2023-05-25
+Isabel,Vargas,18,2007-05-15,Femenino,Mendoza,6,2,5,Yañez (Maipu),2024-07-25
+Valentin,Dominguez,27,1998-01-27,Masculino,Mendoza,10,7,9,Yañez (Maipu),2024-07-25
+Pilar,Romero,47,1978-11-26,Femenino,Mendoza,7,7,10,Todos Unidos (Las Heras),2023-05-25
+Pilar,Romero,47,1978-11-26,Femenino,Mendoza,7,7,10,Barrio Grilli Norte (Guaymallén),2021-04-05
+Francesca,Aguirre,22,2003-06-18,Femenino,Mendoza,7,4,3,Tierras Vivas (Lujan),2024-11-12
+Francesca,Aguirre,22,2003-06-18,Femenino,Mendoza,7,4,3,Yañez (Maipu),2025-04-10
+Francesca,Aguirre,22,2003-06-18,Femenino,Mendoza,7,4,3,Barrio Grilli Norte (Guaymallén),2021-04-05
+Thiago Lionel,Godoy,27,1998-11-18,Masculino,Mendoza,9,10,10,Yañez (Maipu),2024-07-25
+Thiago Lionel,Godoy,27,1998-11-18,Masculino,Mendoza,9,10,10,Todos Unidos (Las Heras),2023-05-25
+Thiago Lionel,Godoy,27,1998-11-18,Masculino,Mendoza,9,10,10,Barrio Grilli Sur (Guaymallén),2022-01-15
+Pedro,Fernandez,34,1991-03-10,Masculino,Mendoza,10,5,6,Yañez (Maipu),2024-07-25
+Juliana,Martin,20,2005-04-15,Femenino,Mendoza,7,4,7,Yañez (Maipu),2024-07-25
+Nicolas,Ayala,29,1996-10-27,Masculino,Mendoza,10,8,9,Tierras Vivas (Lujan),2022-02-20
+Malena,Benitez,44,1981-10-11,Femenino,Mendoza,10,10,10,Tierras Vivas (Lujan),2022-02-20
+Juan Pablo,Sanchez,27,1998-04-06,Masculino,Mendoza,7,10,6,Tierras Vivas (Lujan),2022-02-20
+Juan Pablo,Sanchez,27,1998-04-06,Masculino,Mendoza,7,10,6,Yañez (Maipu),2024-07-25
+Juan Pablo,Sanchez,27,1998-04-06,Masculino,Mendoza,7,10,6,Yañez (Maipu),2025-04-10
+Juan Pablo,Sanchez,27,1998-04-06,Masculino,Mendoza,7,10,6,Barrio Grilli Sur (Guaymallén),2022-01-15
+Juan Pablo,Sanchez,27,1998-04-06,Masculino,Mendoza,7,10,6,Todos Unidos (Las Heras),2023-05-25
+Thiago Nicolas,Rodriguez,25,2000-12-08,Masculino,Mendoza,5,9,10,Yañez (Maipu),2025-04-10
+Thiago Nicolas,Rodriguez,25,2000-12-08,Masculino,Mendoza,5,9,10,Tierras Vivas (Lujan),2024-11-12
+Thiago Nicolas,Rodriguez,25,2000-12-08,Masculino,Mendoza,5,9,10,Tierras Vivas (Lujan),2022-02-20
+Thiago Nicolas,Rodriguez,25,2000-12-08,Masculino,Mendoza,5,9,10,Yañez (Maipu),2024-07-25
+Lola,Cardozo,42,1983-08-10,Femenino,Mendoza,10,5,7,Yañez (Maipu),2025-04-10
+Lola,Cardozo,42,1983-08-10,Femenino,Mendoza,10,5,7,Barrio Grilli Sur (Guaymallén),2022-01-15
+Lola,Cardozo,42,1983-08-10,Femenino,Mendoza,10,5,7,Tierras Vivas (Lujan),2022-02-20
+Lola,Cardozo,42,1983-08-10,Femenino,Mendoza,10,5,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Lola,Cardozo,42,1983-08-10,Femenino,Mendoza,10,5,7,Tierras Vivas (Lujan),2024-11-12
+Manuel,Alvarez,29,1996-01-12,Masculino,Mendoza,7,9,10,Yañez (Maipu),2024-07-25
+Jazmin,Romero,29,1996-07-08,Femenino,Mendoza,9,6,10,Tierras Vivas (Lujan),2024-11-12
+Valentina,Figueroa,23,2002-05-13,Femenino,Mendoza,4,1,5,Yañez (Maipu),2025-04-10
+Santiago,Luna,28,1997-12-08,Masculino,Mendoza,7,7,10,Todos Unidos (Las Heras),2023-05-25
+Santiago,Luna,28,1997-12-08,Masculino,Mendoza,7,7,10,Tierras Vivas (Lujan),2024-11-12
+Santiago,Luna,28,1997-12-08,Masculino,Mendoza,7,7,10,Barrio Grilli Sur (Guaymallén),2022-01-15
+Santiago,Luna,28,1997-12-08,Masculino,Mendoza,7,7,10,Tierras Vivas (Lujan),2022-02-20
+Emilia,Gonzalez,28,1997-03-16,Femenino,Mendoza,6,8,6,Tierras Vivas (Lujan),2024-11-12
+Emilia,Gonzalez,28,1997-03-16,Femenino,Mendoza,6,8,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Bautista,Muñoz,24,2001-07-09,Masculino,Mendoza,5,1,1,Tierras Vivas (Lujan),2024-11-12
+Bianca,Martinez,23,2002-07-04,Femenino,Mendoza,6,3,2,Yañez (Maipu),2024-07-25
+Bianca,Martinez,23,2002-07-04,Femenino,Mendoza,6,3,2,Yañez (Maipu),2025-04-10
+Bianca,Martinez,23,2002-07-04,Femenino,Mendoza,6,3,2,Todos Unidos (Las Heras),2023-05-25
+Bianca,Martinez,23,2002-07-04,Femenino,Mendoza,6,3,2,Barrio Grilli Sur (Guaymallén),2022-01-15
+Bianca,Martinez,23,2002-07-04,Femenino,Mendoza,6,3,2,Tierras Vivas (Lujan),2022-02-20
+Tiziano,Aguirre,29,1996-11-03,Masculino,Mendoza,5,10,7,Barrio Grilli Sur (Guaymallén),2022-01-15
+Benjamin,Garcia,21,2004-06-06,Masculino,Mendoza,3,4,6,Todos Unidos (Las Heras),2023-05-25
+Benjamin,Garcia,21,2004-06-06,Masculino,Mendoza,3,4,6,Yañez (Maipu),2025-04-10
+Benjamin,Garcia,21,2004-06-06,Masculino,Mendoza,3,4,6,Yañez (Maipu),2024-07-25
+Benjamin,Garcia,21,2004-06-06,Masculino,Mendoza,3,4,6,Tierras Vivas (Lujan),2022-02-20
+Valentina ,Sanchez,45,1980-08-13,Femenino,Mendoza,8,6,8,Tierras Vivas (Lujan),2022-02-20
+Ignacio,Castro,39,1986-05-14,Masculino,Mendoza,7,10,6,Tierras Vivas (Lujan),2022-02-20
+Ignacio,Castro,39,1986-05-14,Masculino,Mendoza,7,10,6,Tierras Vivas (Lujan),2024-11-12
+Camila,Villalba,22,2003-05-09,Femenino,Mendoza,5,3,5,Tierras Vivas (Lujan),2024-11-12
+Camila,Villalba,22,2003-05-09,Femenino,Mendoza,5,3,5,Tierras Vivas (Lujan),2022-02-20
+Camila,Villalba,22,2003-05-09,Femenino,Mendoza,5,3,5,Barrio Grilli Norte (Guaymallén),2021-04-05
+Alma,Acosta,45,1980-04-29,Femenino,Mendoza,10,9,8,Yañez (Maipu),2024-07-25
+Alma,Acosta,45,1980-04-29,Femenino,Mendoza,10,9,8,Tierras Vivas (Lujan),2022-02-20
+Alma,Acosta,45,1980-04-29,Femenino,Mendoza,10,9,8,Todos Unidos (Las Heras),2023-05-25
+Joaquin,Gomez,56,1969-03-16,Masculino,Mendoza,9,5,9,Yañez (Maipu),2025-04-10
+Julieta,Villalba,19,2006-10-24,Femenino,Mendoza,7,5,2,Yañez (Maipu),2025-04-10
+Valentina ,Lopez,23,2002-10-14,Femenino,Mendoza,7,4,1,Tierras Vivas (Lujan),2024-11-12
+Valentina ,Lopez,23,2002-10-14,Femenino,Mendoza,7,4,1,Barrio Grilli Sur (Guaymallén),2022-01-15
+Simon,Muñoz,18,2007-10-23,Masculino,Mendoza,3,5,4,Todos Unidos (Las Heras),2023-05-25
+Simon,Muñoz,18,2007-10-23,Masculino,Mendoza,3,5,4,Yañez (Maipu),2024-07-25
+Valentin,Garcia,18,2007-02-09,Masculino,Mendoza,3,1,4,Tierras Vivas (Lujan),2024-11-12
+Valentin,Garcia,18,2007-02-09,Masculino,Mendoza,3,1,4,Barrio Grilli Sur (Guaymallén),2022-01-15
+Valentin,Garcia,18,2007-02-09,Masculino,Mendoza,3,1,4,Yañez (Maipu),2024-07-25
+Micaela,Garcia,18,2007-05-21,Femenino,Mendoza,0,0,0,None,None
+Felipe,Gonzalez,24,2001-07-27,Masculino,Mendoza,6,3,4,Tierras Vivas (Lujan),2024-11-12
+Sofia,Gonzalez,42,1983-01-22,Femenino,Mendoza,10,7,5,Tierras Vivas (Lujan),2024-11-12
+Sofia,Gonzalez,42,1983-01-22,Femenino,Mendoza,10,7,5,Yañez (Maipu),2024-07-25
+Sofia,Gonzalez,42,1983-01-22,Femenino,Mendoza,10,7,5,Barrio Grilli Sur (Guaymallén),2022-01-15
+Bianca,Quiroga,26,1999-02-19,Femenino,Mendoza,10,10,9,Yañez (Maipu),2025-04-10
+Bianca,Quiroga,26,1999-02-19,Femenino,Mendoza,10,10,9,Barrio Grilli Norte (Guaymallén),2021-04-05
+Bianca,Quiroga,26,1999-02-19,Femenino,Mendoza,10,10,9,Tierras Vivas (Lujan),2024-11-12
+Bianca,Quiroga,26,1999-02-19,Femenino,Mendoza,10,10,9,Tierras Vivas (Lujan),2022-02-20
+Bianca,Quiroga,26,1999-02-19,Femenino,Mendoza,10,10,9,Barrio Grilli Sur (Guaymallén),2022-01-15
+Ana Paula,Navarro,21,2004-02-09,Femenino,Mendoza,4,6,7,Tierras Vivas (Lujan),2022-02-20
+Zoe Jazmin,Silva,43,1982-07-02,Femenino,Mendoza,5,9,5,Barrio Grilli Norte (Guaymallén),2021-04-05
+Zoe Jazmin,Silva,43,1982-07-02,Femenino,Mendoza,5,9,5,Barrio Grilli Sur (Guaymallén),2022-01-15
+Zoe Jazmin,Silva,43,1982-07-02,Femenino,Mendoza,5,9,5,Tierras Vivas (Lujan),2024-11-12
+Zoe Jazmin,Silva,43,1982-07-02,Femenino,Mendoza,5,9,5,Yañez (Maipu),2025-04-10
+Malena,Romero,18,2007-01-20,Femenino,Mendoza,0,0,0,None,None
+Victoria,Guzman,18,2007-02-14,Femenino,Mendoza,7,7,6,Barrio Grilli Sur (Guaymallén),2022-01-15
+Victoria,Guzman,18,2007-02-14,Femenino,Mendoza,7,7,6,Tierras Vivas (Lujan),2024-11-12
+Victoria,Guzman,18,2007-02-14,Femenino,Mendoza,7,7,6,Yañez (Maipu),2024-07-25
+Victoria,Guzman,18,2007-02-14,Femenino,Mendoza,7,7,6,Tierras Vivas (Lujan),2022-02-20
+Victoria,Guzman,18,2007-02-14,Femenino,Mendoza,7,7,6,Todos Unidos (Las Heras),2023-05-25
+Tiziano Benjamin,Ruiz,20,2005-01-29,Masculino,Jujuy,5,1,5,Tierras Vivas (Lujan),2022-02-20
+Bruno,Castillo,59,1966-02-28,Masculino,Mendoza,7,10,10,Yañez (Maipu),2024-07-25
+Bruno,Castillo,59,1966-02-28,Masculino,Mendoza,7,10,10,Todos Unidos (Las Heras),2023-05-25
+Bruno,Castillo,59,1966-02-28,Masculino,Mendoza,7,10,10,Barrio Grilli Norte (Guaymallén),2021-04-05
+Sofia,Ortiz,29,1996-04-27,Femenino,Mendoza,6,9,8,Todos Unidos (Las Heras),2023-05-25
+Isabella,Martinez,29,1996-08-04,Femenino,Mendoza,8,8,9,Barrio Grilli Norte (Guaymallén),2021-04-05
+Isabella,Martinez,29,1996-08-04,Femenino,Mendoza,8,8,9,Yañez (Maipu),2024-07-25
+Maria Paz,Juarez,22,2003-11-04,Femenino,Mendoza,3,5,6,Todos Unidos (Las Heras),2023-05-25
+Maria Paz,Juarez,22,2003-11-04,Femenino,Mendoza,3,5,6,Tierras Vivas (Lujan),2022-02-20
+Nicolas,Ramos,24,2001-05-28,Masculino,Mendoza,4,7,7,Yañez (Maipu),2025-04-10
+Nicolas,Ramos,24,2001-05-28,Masculino,Mendoza,4,7,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Lola,Benitez,21,2004-11-30,Femenino,Mendoza,4,6,1,Tierras Vivas (Lujan),2022-02-20
+Lola,Benitez,21,2004-11-30,Femenino,Mendoza,4,6,1,Yañez (Maipu),2025-04-10
+Lola,Benitez,21,2004-11-30,Femenino,Mendoza,4,6,1,Barrio Grilli Norte (Guaymallén),2021-04-05
+Lola,Benitez,21,2004-11-30,Femenino,Mendoza,4,6,1,Barrio Grilli Sur (Guaymallén),2022-01-15
+Mateo Benjamin,Flores,21,2004-08-08,Masculino,Mendoza,5,7,3,Todos Unidos (Las Heras),2023-05-25
+Mateo Benjamin,Flores,21,2004-08-08,Masculino,Mendoza,5,7,3,Barrio Grilli Sur (Guaymallén),2022-01-15
+Mateo Benjamin,Flores,21,2004-08-08,Masculino,Mendoza,5,7,3,Yañez (Maipu),2024-07-25
+Sofía,Cabrera,23,2002-10-15,Femenino,Mendoza,6,1,7,Todos Unidos (Las Heras),2023-05-25
+Santino,Coronel,23,2002-08-31,Masculino,Mendoza,3,5,7,Todos Unidos (Las Heras),2023-05-25
+Valentina,Dominguez,22,2003-03-02,Femenino,Mendoza,5,2,2,Tierras Vivas (Lujan),2024-11-12
+Valentina,Dominguez,22,2003-03-02,Femenino,Mendoza,5,2,2,Todos Unidos (Las Heras),2023-05-25
+Victoria,Molina,21,2004-03-01,Femenino,Mendoza,6,6,6,Tierras Vivas (Lujan),2024-11-12
+Victoria,Molina,21,2004-03-01,Femenino,Mendoza,6,6,6,Tierras Vivas (Lujan),2022-02-20
+Victoria,Molina,21,2004-03-01,Femenino,Mendoza,6,6,6,Yañez (Maipu),2025-04-10
+Benjamin,Acosta,29,1996-08-18,Masculino,Mendoza,9,8,6,Tierras Vivas (Lujan),2024-11-12
+Lorenzo,Gonzalez,28,1997-04-22,Masculino,Jujuy,0,0,0,None,None
+Julian,Quiroga,51,1974-06-26,Masculino,Mendoza,0,0,0,None,None
+Isabella,Martinez,19,2006-04-13,Femenino,Mendoza,0,0,0,None,None
+Matilda,Morales,27,1998-09-14,Femenino,Mendoza,5,9,9,Todos Unidos (Las Heras),2023-05-25
+Matilda,Morales,27,1998-09-14,Femenino,Mendoza,5,9,9,Tierras Vivas (Lujan),2024-11-12
+Matilda,Morales,27,1998-09-14,Femenino,Mendoza,5,9,9,Yañez (Maipu),2025-04-10
+Matilda,Morales,27,1998-09-14,Femenino,Mendoza,5,9,9,Barrio Grilli Norte (Guaymallén),2021-04-05
+Sofia Belen,Diaz,29,1996-02-14,Femenino,Mendoza,5,9,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Sofia Belen,Diaz,29,1996-02-14,Femenino,Mendoza,5,9,6,Yañez (Maipu),2024-07-25
+Sofia Belen,Diaz,29,1996-02-14,Femenino,Mendoza,5,9,6,Todos Unidos (Las Heras),2023-05-25
+Sofia Belen,Diaz,29,1996-02-14,Femenino,Mendoza,5,9,6,Barrio Grilli Sur (Guaymallén),2022-01-15
+Sofia Belen,Diaz,29,1996-02-14,Femenino,Mendoza,5,9,6,Yañez (Maipu),2025-04-10
+Guillermina,Moreno,22,2003-12-19,Femenino,Mendoza,3,3,4,Todos Unidos (Las Heras),2023-05-25
+Emilia,Fernandez,29,1996-01-24,Femenino,Mendoza,5,8,8,Yañez (Maipu),2025-04-10
+Emilia,Fernandez,29,1996-01-24,Femenino,Mendoza,5,8,8,Barrio Grilli Norte (Guaymallén),2021-04-05
+Emilia,Fernandez,29,1996-01-24,Femenino,Mendoza,5,8,8,Tierras Vivas (Lujan),2024-11-12
+Delfina,Sanchez,28,1997-10-18,Femenino,Mendoza,8,10,7,Todos Unidos (Las Heras),2023-05-25
+Lourdes,Ayala,33,1992-06-19,Femenino,Mendoza,7,5,5,Barrio Grilli Sur (Guaymallén),2022-01-15
+Lourdes,Ayala,33,1992-06-19,Femenino,Mendoza,7,5,5,Yañez (Maipu),2025-04-10
+Lourdes,Ayala,33,1992-06-19,Femenino,Mendoza,7,5,5,Yañez (Maipu),2024-07-25
+Lourdes,Ayala,33,1992-06-19,Femenino,Mendoza,7,5,5,Todos Unidos (Las Heras),2023-05-25
+Juan Ignacio,Ledesma,26,1999-09-29,Masculino,Mendoza,0,0,0,None,None
+Benicio,Perez,21,2004-07-28,Masculino,Mendoza,5,2,5,Tierras Vivas (Lujan),2024-11-12
+Benicio,Perez,21,2004-07-28,Masculino,Mendoza,5,2,5,Todos Unidos (Las Heras),2023-05-25
+Benicio,Perez,21,2004-07-28,Masculino,Mendoza,5,2,5,Barrio Grilli Norte (Guaymallén),2021-04-05
+Jazmin,Rodriguez,42,1983-01-16,Femenino,Mendoza,6,10,10,Todos Unidos (Las Heras),2023-05-25
+Jazmin,Rodriguez,42,1983-01-16,Femenino,Mendoza,6,10,10,Tierras Vivas (Lujan),2024-11-12
+Valentina Jazmin,Ponce,23,2002-08-23,Femenino,Mendoza,5,5,7,Yañez (Maipu),2025-04-10
+Valentina Jazmin,Ponce,23,2002-08-23,Femenino,Mendoza,5,5,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Joaquin,Gomez,23,2002-09-19,Masculino,Mendoza,6,2,3,Todos Unidos (Las Heras),2023-05-25
+Alma Valentina,Silva,20,2005-01-09,Femenino,Mendoza,4,6,1,Barrio Grilli Norte (Guaymallén),2021-04-05
+Alma Valentina,Silva,20,2005-01-09,Femenino,Mendoza,4,6,1,Yañez (Maipu),2024-07-25
+Alma Valentina,Silva,20,2005-01-09,Femenino,Mendoza,4,6,1,Tierras Vivas (Lujan),2022-02-20
+Nahiara Jazmin,Carrizo,29,1996-04-14,Femenino,Mendoza,7,7,5,Todos Unidos (Las Heras),2023-05-25
+Julia,Coronel,44,1981-03-10,Femenino,Mendoza,5,6,8,Barrio Grilli Sur (Guaymallén),2022-01-15
+Renata,Ferreyra,24,2001-12-22,Femenino,Mendoza,0,0,0,None,None
+Emilia,Franco,23,2002-06-19,Femenino,Mendoza,0,0,0,None,None
+Ana Paula,Aguirre,29,1996-02-05,Femenino,Mendoza,10,8,6,Barrio Grilli Sur (Guaymallén),2022-01-15
+Ana Paula,Aguirre,29,1996-02-05,Femenino,Mendoza,10,8,6,Yañez (Maipu),2024-07-25
+Ana Paula,Aguirre,29,1996-02-05,Femenino,Mendoza,10,8,6,Tierras Vivas (Lujan),2024-11-12
+Ana Paula,Aguirre,29,1996-02-05,Femenino,Mendoza,10,8,6,Yañez (Maipu),2025-04-10
+Renata,Ramirez,25,2000-05-04,Femenino,Mendoza,8,7,8,Tierras Vivas (Lujan),2022-02-20
+Salvador,Mendez,21,2004-05-08,Masculino,Mendoza,6,1,2,Yañez (Maipu),2024-07-25
+Salvador,Mendez,21,2004-05-08,Masculino,Mendoza,6,1,2,Barrio Grilli Sur (Guaymallén),2022-01-15
+Francesca,Aguirre,40,1985-09-15,Femenino,Mendoza,7,8,7,Yañez (Maipu),2025-04-10
+Angelina,Correa,50,1975-08-02,Femenino,Salta,10,6,8,Yañez (Maipu),2024-07-25
+Martina,Rodriguez,60,1965-04-09,Femenino,Mendoza,6,7,8,Tierras Vivas (Lujan),2024-11-12
+Martina,Rodriguez,60,1965-04-09,Femenino,Mendoza,6,7,8,Todos Unidos (Las Heras),2023-05-25
+Martina,Rodriguez,60,1965-04-09,Femenino,Mendoza,6,7,8,Yañez (Maipu),2024-07-25
+Julieta,Valdez,23,2002-06-06,Femenino,Mendoza,4,6,7,Yañez (Maipu),2024-07-25
+Julieta,Valdez,23,2002-06-06,Femenino,Mendoza,4,6,7,Yañez (Maipu),2025-04-10
+Milena,Paz,44,1981-01-01,Femenino,Mendoza,7,10,5,Yañez (Maipu),2025-04-10
+Franco,Molina,24,2001-06-10,Masculino,Mendoza,4,3,6,Tierras Vivas (Lujan),2022-02-20
+Isabella,Gutierrez,24,2001-08-30,Femenino,Mendoza,3,7,3,Todos Unidos (Las Heras),2023-05-25
+Isabella,Gutierrez,24,2001-08-30,Femenino,Mendoza,3,7,3,Yañez (Maipu),2024-07-25
+Isabella,Gutierrez,24,2001-08-30,Femenino,Mendoza,3,7,3,Yañez (Maipu),2025-04-10
+Isabella,Gutierrez,24,2001-08-30,Femenino,Mendoza,3,7,3,Tierras Vivas (Lujan),2024-11-12
+Isabella,Gutierrez,24,2001-08-30,Femenino,Mendoza,3,7,3,Tierras Vivas (Lujan),2022-02-20
+Thiago Ezequiel,Morales,49,1976-10-22,Masculino,Mendoza,0,0,0,None,None
+Benjamin,Perez,23,2002-02-20,Masculino,Mendoza,6,7,3,Yañez (Maipu),2024-07-25
+Benjamin,Perez,23,2002-02-20,Masculino,Mendoza,6,7,3,Tierras Vivas (Lujan),2024-11-12
+Augusto,Benitez,18,2007-09-29,Masculino,Mendoza,7,5,5,Tierras Vivas (Lujan),2024-11-12
+Simon,Gonzalez,23,2002-09-02,Masculino,Mendoza,4,3,1,Yañez (Maipu),2024-07-25
+Simon,Gonzalez,23,2002-09-02,Masculino,Mendoza,4,3,1,Tierras Vivas (Lujan),2024-11-12
+Simon,Gonzalez,23,2002-09-02,Masculino,Mendoza,4,3,1,Yañez (Maipu),2025-04-10
+Mia,Martinez,19,2006-03-03,Femenino,Mendoza,6,7,2,Barrio Grilli Sur (Guaymallén),2022-01-15
+Mia,Martinez,19,2006-03-03,Femenino,Mendoza,6,7,2,Tierras Vivas (Lujan),2022-02-20
+Mia,Martinez,19,2006-03-03,Femenino,Mendoza,6,7,2,Tierras Vivas (Lujan),2024-11-12
+Mia,Martinez,19,2006-03-03,Femenino,Mendoza,6,7,2,Yañez (Maipu),2024-07-25
+Julieta,Gonzalez,19,2006-06-08,Femenino,Mendoza,3,7,6,Tierras Vivas (Lujan),2022-02-20
+Julieta,Gonzalez,19,2006-06-08,Femenino,Mendoza,3,7,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Julieta,Gonzalez,19,2006-06-08,Femenino,Mendoza,3,7,6,Yañez (Maipu),2025-04-10
+Catalina,Toledo,50,1975-12-21,Femenino,Mendoza,6,9,6,Tierras Vivas (Lujan),2024-11-12
+Catalina,Toledo,50,1975-12-21,Femenino,Mendoza,6,9,6,Barrio Grilli Sur (Guaymallén),2022-01-15
+Catalina,Toledo,50,1975-12-21,Femenino,Mendoza,6,9,6,Yañez (Maipu),2024-07-25
+Catalina,Leiva,25,2000-09-08,Femenino,Mendoza,10,10,8,Barrio Grilli Sur (Guaymallén),2022-01-15
+Catalina,Leiva,25,2000-09-08,Femenino,Mendoza,10,10,8,Yañez (Maipu),2025-04-10
+Micaela,Aguirre,21,2004-10-05,Femenino,Mendoza,4,2,3,Barrio Grilli Norte (Guaymallén),2021-04-05
+Micaela,Aguirre,21,2004-10-05,Femenino,Mendoza,4,2,3,Tierras Vivas (Lujan),2024-11-12
+Francisco,Vega,32,1993-06-11,Masculino,Mendoza,7,6,8,Yañez (Maipu),2024-07-25
+Francisco,Vega,32,1993-06-11,Masculino,Mendoza,7,6,8,Barrio Grilli Sur (Guaymallén),2022-01-15
+Francisco,Vega,32,1993-06-11,Masculino,Mendoza,7,6,8,Tierras Vivas (Lujan),2022-02-20
+Micaela,Chavez,25,2000-04-04,Femenino,Mendoza,9,8,9,Yañez (Maipu),2024-07-25
+Micaela,Chavez,25,2000-04-04,Femenino,Mendoza,9,8,9,Todos Unidos (Las Heras),2023-05-25
+Lola,Fernandez,25,2000-03-15,Femenino,Mendoza,9,5,10,Tierras Vivas (Lujan),2024-11-12
+Lola,Fernandez,25,2000-03-15,Femenino,Mendoza,9,5,10,Tierras Vivas (Lujan),2022-02-20
+Lola,Fernandez,25,2000-03-15,Femenino,Mendoza,9,5,10,Yañez (Maipu),2024-07-25
+Joaquina,Gimenez,22,2003-12-08,Femenino,Mendoza,7,4,4,Barrio Grilli Sur (Guaymallén),2022-01-15
+Sofia,Rodriguez,24,2001-10-28,Femenino,Mendoza,4,5,2,Tierras Vivas (Lujan),2024-11-12
+Sofia,Rodriguez,24,2001-10-28,Femenino,Mendoza,4,5,2,Yañez (Maipu),2025-04-10
+Matilda,Ramirez,23,2002-12-29,Femenino,Mendoza,3,4,2,Yañez (Maipu),2025-04-10
+Matilda,Ramirez,23,2002-12-29,Femenino,Mendoza,3,4,2,Tierras Vivas (Lujan),2022-02-20
+Matilda,Perez,26,1999-01-01,Femenino,Mendoza,8,10,8,Tierras Vivas (Lujan),2024-11-12
+Matilda,Perez,26,1999-01-01,Femenino,Mendoza,8,10,8,Todos Unidos (Las Heras),2023-05-25
+Emilia,Garcia,18,2007-08-16,Femenino,Mendoza,5,2,5,Barrio Grilli Norte (Guaymallén),2021-04-05
+Julia,Dominguez,27,1998-12-03,Femenino,Mendoza,9,5,7,Yañez (Maipu),2024-07-25
+Julia,Dominguez,27,1998-12-03,Femenino,Mendoza,9,5,7,Yañez (Maipu),2025-04-10
+Julia,Dominguez,27,1998-12-03,Femenino,Mendoza,9,5,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Juan Ignacio,Rojas,41,1984-05-14,Masculino,Mendoza,9,6,8,Yañez (Maipu),2025-04-10
+Juan Ignacio,Rojas,41,1984-05-14,Masculino,Mendoza,9,6,8,Tierras Vivas (Lujan),2024-11-12
+Juan Ignacio,Rojas,41,1984-05-14,Masculino,Mendoza,9,6,8,Todos Unidos (Las Heras),2023-05-25
+Josefina,Coronel,54,1971-05-27,Femenino,Mendoza,5,8,5,Barrio Grilli Norte (Guaymallén),2021-04-05
+Josefina,Coronel,54,1971-05-27,Femenino,Mendoza,5,8,5,Todos Unidos (Las Heras),2023-05-25
+Josefina,Coronel,54,1971-05-27,Femenino,Mendoza,5,8,5,Tierras Vivas (Lujan),2022-02-20
+Josefina,Coronel,54,1971-05-27,Femenino,Mendoza,5,8,5,Yañez (Maipu),2024-07-25
+Pedro,Sanchez,29,1996-03-14,Masculino,Mendoza,9,10,8,Tierras Vivas (Lujan),2024-11-12
+Carmela,Martinez,21,2004-05-28,Femenino,Mendoza,5,5,5,Yañez (Maipu),2024-07-25
+Carmela,Martinez,21,2004-05-28,Femenino,Mendoza,5,5,5,Tierras Vivas (Lujan),2022-02-20
+Carmela,Martinez,21,2004-05-28,Femenino,Mendoza,5,5,5,Yañez (Maipu),2025-04-10
+Valentina,Ramos,39,1986-01-17,Femenino,Mendoza,9,10,5,Yañez (Maipu),2025-04-10
+Julieta,Herrera,24,2001-12-21,Femenino,Mendoza,4,6,3,Yañez (Maipu),2025-04-10
+Julieta,Herrera,24,2001-12-21,Femenino,Mendoza,4,6,3,Tierras Vivas (Lujan),2024-11-12
+Julieta,Herrera,24,2001-12-21,Femenino,Mendoza,4,6,3,Barrio Grilli Sur (Guaymallén),2022-01-15
+Julieta,Herrera,24,2001-12-21,Femenino,Mendoza,4,6,3,Yañez (Maipu),2024-07-25
+Julieta,Herrera,24,2001-12-21,Femenino,Mendoza,4,6,3,Barrio Grilli Norte (Guaymallén),2021-04-05
+Ian Benjamin,Alvarez,28,1997-09-15,Masculino,Mendoza,7,10,8,Tierras Vivas (Lujan),2024-11-12
+Matilda,Ferreyra,19,2006-03-01,Femenino,Mendoza,6,3,5,Tierras Vivas (Lujan),2024-11-12
+Matilda,Ferreyra,19,2006-03-01,Femenino,Mendoza,6,3,5,Tierras Vivas (Lujan),2022-02-20
+Matilda,Ferreyra,19,2006-03-01,Femenino,Mendoza,6,3,5,Todos Unidos (Las Heras),2023-05-25
+Jazmin,Gonzalez,29,1996-07-14,Femenino,Mendoza,8,6,8,Tierras Vivas (Lujan),2024-11-12
+Jazmin,Gonzalez,29,1996-07-14,Femenino,Mendoza,8,6,8,Yañez (Maipu),2025-04-10
+Jazmin,Gonzalez,29,1996-07-14,Femenino,Mendoza,8,6,8,Tierras Vivas (Lujan),2022-02-20
+Jazmin,Gonzalez,29,1996-07-14,Femenino,Mendoza,8,6,8,Barrio Grilli Norte (Guaymallén),2021-04-05
+Jazmin,Gonzalez,29,1996-07-14,Femenino,Mendoza,8,6,8,Yañez (Maipu),2024-07-25
+Enzo,Romero,23,2002-02-08,Masculino,Mendoza,4,5,7,Yañez (Maipu),2024-07-25
+Zoe Jazmin,Benitez,28,1997-07-24,Femenino,Mendoza,0,0,0,None,None
+Juan,Gonzalez,30,1995-02-25,Masculino,Mendoza,6,10,6,Todos Unidos (Las Heras),2023-05-25
+Juan,Gonzalez,30,1995-02-25,Masculino,Mendoza,6,10,6,Yañez (Maipu),2025-04-10
+Juan,Gonzalez,30,1995-02-25,Masculino,Mendoza,6,10,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Juan,Gonzalez,30,1995-02-25,Masculino,Mendoza,6,10,6,Tierras Vivas (Lujan),2024-11-12
+Guadalupe,Ferreyra,22,2003-03-01,Masculino,Mendoza,5,6,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Isabella,Vargas,22,2003-04-13,Femenino,Mendoza,3,1,2,Todos Unidos (Las Heras),2023-05-25
+Isabella,Vargas,22,2003-04-13,Femenino,Mendoza,3,1,2,Tierras Vivas (Lujan),2024-11-12
+Isabella,Vargas,22,2003-04-13,Femenino,Mendoza,3,1,2,Barrio Grilli Norte (Guaymallén),2021-04-05
+Josefina,Ledesma,21,2004-09-09,Femenino,Mendoza,5,7,1,Barrio Grilli Norte (Guaymallén),2021-04-05
+Josefina,Ledesma,21,2004-09-09,Femenino,Mendoza,5,7,1,Tierras Vivas (Lujan),2024-11-12
+Bautista,Romero,20,2005-09-19,Masculino,Mendoza,3,1,3,Barrio Grilli Norte (Guaymallén),2021-04-05
+Antonia,Alvarez,24,2001-05-03,Femenino,Mendoza,3,5,5,Barrio Grilli Sur (Guaymallén),2022-01-15
+Antonia,Alvarez,24,2001-05-03,Femenino,Mendoza,3,5,5,Tierras Vivas (Lujan),2024-11-12
+Antonia,Alvarez,24,2001-05-03,Femenino,Mendoza,3,5,5,Yañez (Maipu),2025-04-10
+Mora,Paez,25,2000-07-08,Femenino,Mendoza,6,8,9,Tierras Vivas (Lujan),2024-11-12
+Thiago Nahuel,Gonzalez,32,1993-01-27,Masculino,Mendoza,9,10,8,Barrio Grilli Norte (Guaymallén),2021-04-05
+Valentina,Castillo,20,2005-04-22,Femenino,Mendoza,7,5,6,Barrio Grilli Sur (Guaymallén),2022-01-15
+Valentina,Castillo,20,2005-04-22,Femenino,Mendoza,7,5,6,Yañez (Maipu),2024-07-25
+Alvaro,Cardozo,29,1996-06-17,Masculino,Mendoza,9,9,6,Tierras Vivas (Lujan),2022-02-20
+Alvaro,Cardozo,29,1996-06-17,Masculino,Mendoza,9,9,6,Barrio Grilli Sur (Guaymallén),2022-01-15
+Alvaro,Cardozo,29,1996-06-17,Masculino,Mendoza,9,9,6,Yañez (Maipu),2024-07-25
+Antonio,Coronel,18,2007-10-01,Masculino,Mendoza,3,2,4,Barrio Grilli Sur (Guaymallén),2022-01-15
+Antonio,Coronel,18,2007-10-01,Masculino,Mendoza,3,2,4,Todos Unidos (Las Heras),2023-05-25
+Antonio,Coronel,18,2007-10-01,Masculino,Mendoza,3,2,4,Tierras Vivas (Lujan),2024-11-12
+Thiago Nahuel,Acosta,18,2007-09-27,Masculino,La Pampa,7,4,3,Yañez (Maipu),2025-04-10
+Juana,Gonzalez,25,2000-05-05,Femenino,Santa Fe,0,0,0,None,None
+Paulina,Garcia,18,2007-05-26,Femenino,Mendoza,6,6,4,Todos Unidos (Las Heras),2023-05-25
+Paulina,Garcia,18,2007-05-26,Femenino,Mendoza,6,6,4,Yañez (Maipu),2024-07-25
+Paulina,Garcia,18,2007-05-26,Femenino,Mendoza,6,6,4,Tierras Vivas (Lujan),2022-02-20
+Paulina,Garcia,18,2007-05-26,Femenino,Mendoza,6,6,4,Yañez (Maipu),2025-04-10
+Camila,Martinez,27,1998-06-10,Femenino,Mendoza,0,0,0,None,None
+Agustina,Arias,55,1970-03-08,Femenino,Mendoza,10,10,10,Yañez (Maipu),2024-07-25
+Valentino,Cabrera,24,2001-05-29,Masculino,Mendoza,6,1,4,Barrio Grilli Norte (Guaymallén),2021-04-05
+Valentino,Cabrera,24,2001-05-29,Masculino,Mendoza,6,1,4,Barrio Grilli Sur (Guaymallén),2022-01-15
+Valentino,Cabrera,24,2001-05-29,Masculino,Mendoza,6,1,4,Yañez (Maipu),2025-04-10
+Nicolas,Martinez,28,1997-12-21,Masculino,Mendoza,10,5,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Nicolas,Martinez,28,1997-12-21,Masculino,Mendoza,10,5,6,Yañez (Maipu),2025-04-10
+Nicolas,Martinez,28,1997-12-21,Masculino,Mendoza,10,5,6,Barrio Grilli Sur (Guaymallén),2022-01-15
+Clara,Martinez,26,1999-09-05,Femenino,Mendoza,10,7,10,Barrio Grilli Sur (Guaymallén),2022-01-15
+Clara,Martinez,26,1999-09-05,Femenino,Mendoza,10,7,10,Tierras Vivas (Lujan),2022-02-20
+Clara,Martinez,26,1999-09-05,Femenino,Mendoza,10,7,10,Yañez (Maipu),2025-04-10
+Joaquin,Perez,18,2007-01-04,Masculino,Mendoza,5,6,5,Yañez (Maipu),2024-07-25
+Joaquin,Perez,18,2007-01-04,Masculino,Mendoza,5,6,5,Barrio Grilli Norte (Guaymallén),2021-04-05
+Sol,Medina,26,1999-04-22,Masculino,Mendoza,7,6,7,Yañez (Maipu),2024-07-25
+Sol,Medina,26,1999-04-22,Masculino,Mendoza,7,6,7,Barrio Grilli Sur (Guaymallén),2022-01-15
+Salvador,Fernandez,51,1974-06-21,Masculino,Mendoza,5,5,5,Yañez (Maipu),2024-07-25
+Angelina,Olivera,24,2001-04-27,Femenino,Mendoza,3,5,7,Yañez (Maipu),2025-04-10
+Lucas,Flores,24,2001-04-08,Masculino,Mendoza,5,3,7,Tierras Vivas (Lujan),2024-11-12
+Lola,Sanchez,26,1999-05-30,Femenino,Mendoza,0,0,0,None,None
+Sara,Gomez,18,2007-05-29,Femenino,Santa Fe,3,5,4,Yañez (Maipu),2025-04-10
+Sara,Gomez,18,2007-05-29,Femenino,Santa Fe,3,5,4,Tierras Vivas (Lujan),2022-02-20
+Sara,Gomez,18,2007-05-29,Femenino,Santa Fe,3,5,4,Tierras Vivas (Lujan),2024-11-12
+Sara,Gomez,18,2007-05-29,Femenino,Santa Fe,3,5,4,Yañez (Maipu),2024-07-25
+Julia,Silva,27,1998-09-29,Femenino,Mendoza,9,8,6,Barrio Grilli Sur (Guaymallén),2022-01-15
+Julia,Silva,27,1998-09-29,Femenino,Mendoza,9,8,6,Todos Unidos (Las Heras),2023-05-25
+Julia,Silva,27,1998-09-29,Femenino,Mendoza,9,8,6,Tierras Vivas (Lujan),2022-02-20
+Francisco,Bravo,21,2004-09-12,Masculino,Mendoza,3,3,1,Barrio Grilli Norte (Guaymallén),2021-04-05
+Francisco,Bravo,21,2004-09-12,Masculino,Mendoza,3,3,1,Barrio Grilli Sur (Guaymallén),2022-01-15
+Francisco,Bravo,21,2004-09-12,Masculino,Mendoza,3,3,1,Yañez (Maipu),2024-07-25
+Francisco,Bravo,21,2004-09-12,Masculino,Mendoza,3,3,1,Tierras Vivas (Lujan),2022-02-20
+Benicio,Gonzalez,29,1996-12-01,Masculino,Mendoza,6,8,8,Yañez (Maipu),2024-07-25
+Matias,Villalba,34,1991-01-20,Masculino,Mendoza,0,0,0,None,None
+Juan,Villalba,46,1979-11-20,Masculino,Mendoza,9,6,10,Todos Unidos (Las Heras),2023-05-25
+Juan,Villalba,46,1979-11-20,Masculino,Mendoza,9,6,10,Tierras Vivas (Lujan),2024-11-12
+Juan,Villalba,46,1979-11-20,Masculino,Mendoza,9,6,10,Barrio Grilli Norte (Guaymallén),2021-04-05
+Juan,Villalba,46,1979-11-20,Masculino,Mendoza,9,6,10,Yañez (Maipu),2024-07-25
+Geronimo,Garcia,27,1998-11-07,Masculino,Mendoza,7,7,8,Barrio Grilli Sur (Guaymallén),2022-01-15
+Geronimo,Garcia,27,1998-11-07,Masculino,Mendoza,7,7,8,Yañez (Maipu),2025-04-10
+Geronimo,Garcia,27,1998-11-07,Masculino,Mendoza,7,7,8,Tierras Vivas (Lujan),2022-02-20
+Mateo,Figueroa,23,2002-03-27,Masculino,Mendoza,4,7,7,Barrio Grilli Sur (Guaymallén),2022-01-15
+Ana Paula,Rios,20,2005-09-21,Femenino,Mendoza,7,3,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Luz Milagros,Vazquez,22,2003-09-22,Femenino,Mendoza,0,0,0,None,None
+Lautaro Ezequiel,Morales,29,1996-12-16,Masculino,Mendoza,0,0,0,None,None
+Lautaro Benjamin,Gonzalez,19,2006-11-03,Masculino,Mendoza,4,1,4,Todos Unidos (Las Heras),2023-05-25
+Lautaro Benjamin,Gonzalez,19,2006-11-03,Masculino,Mendoza,4,1,4,Yañez (Maipu),2024-07-25
+Lautaro Benjamin,Gonzalez,19,2006-11-03,Masculino,Mendoza,4,1,4,Barrio Grilli Norte (Guaymallén),2021-04-05
+Lautaro Benjamin,Gonzalez,19,2006-11-03,Masculino,Mendoza,4,1,4,Tierras Vivas (Lujan),2022-02-20
+Lautaro Benjamin,Gonzalez,19,2006-11-03,Masculino,Mendoza,4,1,4,Barrio Grilli Sur (Guaymallén),2022-01-15
+Ciro,Silva,26,1999-10-12,Masculino,Mendoza,5,5,5,Yañez (Maipu),2025-04-10
+Ciro,Silva,26,1999-10-12,Masculino,Mendoza,5,5,5,Barrio Grilli Sur (Guaymallén),2022-01-15
+Juan Ignacio,Bustos,34,1991-05-07,Masculino,Mendoza,10,5,9,Tierras Vivas (Lujan),2024-11-12
+Juan Ignacio,Bustos,34,1991-05-07,Masculino,Mendoza,10,5,9,Yañez (Maipu),2025-04-10
+Lucia,Lopez,32,1993-02-21,Femenino,Mendoza,0,0,0,None,None
+Thiago Agustin,Lucero,20,2005-05-23,Masculino,Mendoza,3,4,1,Yañez (Maipu),2025-04-10
+Thiago Agustin,Lucero,20,2005-05-23,Masculino,Mendoza,3,4,1,Tierras Vivas (Lujan),2022-02-20
+Thiago Agustin,Lucero,20,2005-05-23,Masculino,Mendoza,3,4,1,Barrio Grilli Norte (Guaymallén),2021-04-05
+Morena,Avila,29,1996-11-18,Femenino,Mendoza,0,0,0,None,None
+Valentino,Avila,21,2004-07-06,Masculino,Mendoza,4,1,5,Todos Unidos (Las Heras),2023-05-25
+Enzo,Garcia,22,2003-12-05,Masculino,Mendoza,6,2,4,Todos Unidos (Las Heras),2023-05-25
+Enzo,Garcia,22,2003-12-05,Masculino,Mendoza,6,2,4,Barrio Grilli Norte (Guaymallén),2021-04-05
+Enzo,Garcia,22,2003-12-05,Masculino,Mendoza,6,2,4,Tierras Vivas (Lujan),2024-11-12
+Enzo,Garcia,22,2003-12-05,Masculino,Mendoza,6,2,4,Tierras Vivas (Lujan),2022-02-20
+Josefina,Gomez,46,1979-01-30,Femenino,Mendoza,9,8,7,Yañez (Maipu),2024-07-25
+Josefina,Gomez,46,1979-01-30,Femenino,Mendoza,9,8,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Josefina,Gomez,46,1979-01-30,Femenino,Mendoza,9,8,7,Todos Unidos (Las Heras),2023-05-25
+Josefina,Gomez,46,1979-01-30,Femenino,Mendoza,9,8,7,Tierras Vivas (Lujan),2022-02-20
+Josefina,Gomez,46,1979-01-30,Femenino,Mendoza,9,8,7,Barrio Grilli Sur (Guaymallén),2022-01-15
+Juan Ignacio,Martin,24,2001-12-01,Masculino,Mendoza,0,0,0,None,None
+Milagros,Peralta,22,2003-06-04,Femenino,Mendoza,3,2,6,Yañez (Maipu),2024-07-25
+Milagros,Peralta,22,2003-06-04,Femenino,Mendoza,3,2,6,Tierras Vivas (Lujan),2022-02-20
+Milagros,Peralta,22,2003-06-04,Femenino,Mendoza,3,2,6,Yañez (Maipu),2025-04-10
+Milagros,Peralta,22,2003-06-04,Femenino,Mendoza,3,2,6,Barrio Grilli Sur (Guaymallén),2022-01-15
+Milagros,Peralta,22,2003-06-04,Femenino,Mendoza,3,2,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Luz Maria,Cordoba,29,1996-05-22,Femenino,Mendoza,6,6,9,Barrio Grilli Sur (Guaymallén),2022-01-15
+Luz Maria,Cordoba,29,1996-05-22,Femenino,Mendoza,6,6,9,Yañez (Maipu),2024-07-25
+Luz Maria,Cordoba,29,1996-05-22,Femenino,Mendoza,6,6,9,Todos Unidos (Las Heras),2023-05-25
+Luz Maria,Cordoba,29,1996-05-22,Femenino,Mendoza,6,6,9,Tierras Vivas (Lujan),2022-02-20
+Luz Maria,Cordoba,29,1996-05-22,Femenino,Mendoza,6,6,9,Barrio Grilli Norte (Guaymallén),2021-04-05
+Catalina,Ruiz,23,2002-04-13,Femenino,Mendoza,0,0,0,None,None
+Agustin,Medina,48,1977-09-19,Masculino,Mendoza,6,8,5,Yañez (Maipu),2025-04-10
+Agustin,Medina,48,1977-09-19,Masculino,Mendoza,6,8,5,Todos Unidos (Las Heras),2023-05-25
+Agustin,Medina,48,1977-09-19,Masculino,Mendoza,6,8,5,Yañez (Maipu),2024-07-25
+Agustin,Medina,48,1977-09-19,Masculino,Mendoza,6,8,5,Tierras Vivas (Lujan),2022-02-20
+Paloma,Perez,21,2004-05-27,Femenino,Mendoza,4,7,2,Tierras Vivas (Lujan),2022-02-20
+Paloma,Perez,21,2004-05-27,Femenino,Mendoza,4,7,2,Yañez (Maipu),2024-07-25
+Lourdes,Acuña,23,2002-02-12,Femenino,Mendoza,4,7,1,Tierras Vivas (Lujan),2024-11-12
+Salvador,Herrera,60,1965-08-29,Masculino,Mendoza,5,7,7,Tierras Vivas (Lujan),2024-11-12
+Salvador,Herrera,60,1965-08-29,Masculino,Mendoza,5,7,7,Todos Unidos (Las Heras),2023-05-25
+Salvador,Herrera,60,1965-08-29,Masculino,Mendoza,5,7,7,Yañez (Maipu),2024-07-25
+Giuliana,Castro,53,1972-12-21,Femenino,Mendoza,6,10,9,Todos Unidos (Las Heras),2023-05-25
+Giuliana,Castro,53,1972-12-21,Femenino,Mendoza,6,10,9,Tierras Vivas (Lujan),2024-11-12
+Giuliana,Castro,53,1972-12-21,Femenino,Mendoza,6,10,9,Tierras Vivas (Lujan),2022-02-20
+Manuel,Moreno,55,1970-09-04,Masculino,Mendoza,7,10,10,Yañez (Maipu),2025-04-10
+Manuel,Moreno,55,1970-09-04,Masculino,Mendoza,7,10,10,Barrio Grilli Sur (Guaymallén),2022-01-15
+Manuel,Moreno,55,1970-09-04,Masculino,Mendoza,7,10,10,Todos Unidos (Las Heras),2023-05-25
+Lourdes,Bustos,18,2007-04-28,Femenino,Mendoza,7,3,7,Todos Unidos (Las Heras),2023-05-25
+Lourdes,Bustos,18,2007-04-28,Femenino,Mendoza,7,3,7,Yañez (Maipu),2024-07-25
+Lourdes,Bustos,18,2007-04-28,Femenino,Mendoza,7,3,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Lourdes,Bustos,18,2007-04-28,Femenino,Mendoza,7,3,7,Barrio Grilli Sur (Guaymallén),2022-01-15
+Tiziano,Gomez,27,1998-01-18,Masculino,Mendoza,5,6,7,Tierras Vivas (Lujan),2022-02-20
+Tiziano,Gomez,27,1998-01-18,Masculino,Mendoza,5,6,7,Tierras Vivas (Lujan),2024-11-12
+Juan Francisco,Sanchez,19,2006-07-11,Masculino,Mendoza,3,3,2,Tierras Vivas (Lujan),2024-11-12
+Juan Francisco,Sanchez,19,2006-07-11,Masculino,Mendoza,3,3,2,Tierras Vivas (Lujan),2022-02-20
+Juan Francisco,Sanchez,19,2006-07-11,Masculino,Mendoza,3,3,2,Todos Unidos (Las Heras),2023-05-25
+Catalina,Martinez,22,2003-07-28,Femenino,Mendoza,6,2,4,Barrio Grilli Norte (Guaymallén),2021-04-05
+Catalina,Martinez,22,2003-07-28,Femenino,Mendoza,6,2,4,Todos Unidos (Las Heras),2023-05-25
+Catalina,Martinez,22,2003-07-28,Femenino,Mendoza,6,2,4,Tierras Vivas (Lujan),2024-11-12
+Sofia,Acosta,26,1999-09-18,Femenino,Mendoza,6,8,5,Yañez (Maipu),2025-04-10
+Sofia,Acosta,26,1999-09-18,Femenino,Mendoza,6,8,5,Yañez (Maipu),2024-07-25
+Sofia,Acosta,26,1999-09-18,Femenino,Mendoza,6,8,5,Barrio Grilli Sur (Guaymallén),2022-01-15
+Santino Ezequiel,Quiroga,18,2007-07-29,Masculino,Mendoza,3,5,1,Barrio Grilli Norte (Guaymallén),2021-04-05
+Santino Ezequiel,Quiroga,18,2007-07-29,Masculino,Mendoza,3,5,1,Tierras Vivas (Lujan),2022-02-20
+Santino Ezequiel,Quiroga,18,2007-07-29,Masculino,Mendoza,3,5,1,Barrio Grilli Sur (Guaymallén),2022-01-15
+Santino Ezequiel,Quiroga,18,2007-07-29,Masculino,Mendoza,3,5,1,Todos Unidos (Las Heras),2023-05-25
+Santino Ezequiel,Quiroga,18,2007-07-29,Masculino,Mendoza,3,5,1,Yañez (Maipu),2025-04-10
+Francesca,Villalba,58,1967-03-02,Femenino,Mendoza,0,0,0,None,None
+Fausto,Ferreyra,24,2001-11-20,Masculino,Mendoza,4,4,6,Barrio Grilli Sur (Guaymallén),2022-01-15
+Malena,Ramirez,47,1978-04-19,Femenino,Mendoza,5,5,8,Barrio Grilli Sur (Guaymallén),2022-01-15
+Martina,Torres,34,1991-06-22,Femenino,Mendoza,0,0,0,None,None
+Lola,Martinez,50,1975-05-21,Femenino,Mendoza,6,6,10,Barrio Grilli Norte (Guaymallén),2021-04-05
+Catalina,Castillo,19,2006-07-31,Femenino,Mendoza,5,1,6,Todos Unidos (Las Heras),2023-05-25
+Elena,Moreno,24,2001-01-24,Femenino,Mendoza,6,3,2,Tierras Vivas (Lujan),2022-02-20
+Elena,Moreno,24,2001-01-24,Femenino,Mendoza,6,3,2,Todos Unidos (Las Heras),2023-05-25
+Benicio,Lopez,20,2005-02-17,Masculino,Mendoza,7,4,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Benicio,Lopez,20,2005-02-17,Masculino,Mendoza,7,4,7,Tierras Vivas (Lujan),2024-11-12
+Benicio,Lopez,20,2005-02-17,Masculino,Mendoza,7,4,7,Tierras Vivas (Lujan),2022-02-20
+Uma,Paz,24,2001-02-05,Femenino,Mendoza,6,5,2,Yañez (Maipu),2024-07-25
+Uma,Paz,24,2001-02-05,Femenino,Mendoza,6,5,2,Tierras Vivas (Lujan),2024-11-12
+Lara,Moreno,29,1996-08-19,Femenino,Mendoza,10,9,6,Yañez (Maipu),2024-07-25
+Lara,Moreno,29,1996-08-19,Femenino,Mendoza,10,9,6,Yañez (Maipu),2025-04-10
+Uma ,Rodriguez,20,2005-05-10,Femenino,Mendoza,4,2,1,Barrio Grilli Sur (Guaymallén),2022-01-15
+Victoria,Gomez,43,1982-08-08,Femenino,Mendoza,7,10,5,Barrio Grilli Sur (Guaymallén),2022-01-15
+Victoria,Gomez,43,1982-08-08,Femenino,Mendoza,7,10,5,Yañez (Maipu),2024-07-25
+Victoria,Gomez,43,1982-08-08,Femenino,Mendoza,7,10,5,Tierras Vivas (Lujan),2022-02-20
+Emma,Rivero,26,1999-08-04,Femenino,Mendoza,5,10,9,Todos Unidos (Las Heras),2023-05-25
+Emma,Diaz,19,2006-12-04,Femenino,Mendoza,7,7,1,Yañez (Maipu),2024-07-25
+Mateo,Ramos,19,2006-11-03,Masculino,Mendoza,6,5,5,Tierras Vivas (Lujan),2022-02-20
+Mateo,Ramos,19,2006-11-03,Masculino,Mendoza,6,5,5,Todos Unidos (Las Heras),2023-05-25
+Mateo,Ramos,19,2006-11-03,Masculino,Mendoza,6,5,5,Yañez (Maipu),2025-04-10
+Mateo,Ramos,19,2006-11-03,Masculino,Mendoza,6,5,5,Tierras Vivas (Lujan),2024-11-12
+Elena,Gonzalez,24,2001-11-30,Femenino,Mendoza,3,4,3,Tierras Vivas (Lujan),2024-11-12
+Elena,Gonzalez,24,2001-11-30,Femenino,Mendoza,3,4,3,Todos Unidos (Las Heras),2023-05-25
+Mateo Agustin,Olivera,25,2000-07-28,Masculino,Mendoza,7,8,10,Barrio Grilli Norte (Guaymallén),2021-04-05
+Mateo Agustin,Olivera,25,2000-07-28,Masculino,Mendoza,7,8,10,Tierras Vivas (Lujan),2022-02-20
+Mateo Agustin,Olivera,25,2000-07-28,Masculino,Mendoza,7,8,10,Tierras Vivas (Lujan),2024-11-12
+Mateo Agustin,Olivera,25,2000-07-28,Masculino,Mendoza,7,8,10,Yañez (Maipu),2024-07-25
+Joaquin,Lopez,37,1988-09-13,Masculino,Mendoza,10,5,6,Todos Unidos (Las Heras),2023-05-25
+Joaquin,Lopez,37,1988-09-13,Masculino,Mendoza,10,5,6,Tierras Vivas (Lujan),2022-02-20
+Joaquin,Lopez,37,1988-09-13,Masculino,Mendoza,10,5,6,Tierras Vivas (Lujan),2024-11-12
+Joaquin,Lopez,37,1988-09-13,Masculino,Mendoza,10,5,6,Yañez (Maipu),2025-04-10
+Joaquin,Lopez,37,1988-09-13,Masculino,Mendoza,10,5,6,Yañez (Maipu),2024-07-25
+Ludmila,Fernandez,43,1982-05-20,Femenino,Mendoza,9,6,5,Yañez (Maipu),2025-04-10
+Ludmila,Fernandez,43,1982-05-20,Femenino,Mendoza,9,6,5,Tierras Vivas (Lujan),2022-02-20
+Ludmila,Fernandez,43,1982-05-20,Femenino,Mendoza,9,6,5,Barrio Grilli Norte (Guaymallén),2021-04-05
+Matilda,Martinez,20,2005-05-06,Femenino,Mendoza,4,2,7,Yañez (Maipu),2024-07-25
+Matilda,Martinez,20,2005-05-06,Femenino,Mendoza,4,2,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Martina,Perez,18,2007-02-19,Femenino,Mendoza,6,5,4,Tierras Vivas (Lujan),2024-11-12
+Martina,Perez,18,2007-02-19,Femenino,Mendoza,6,5,4,Barrio Grilli Sur (Guaymallén),2022-01-15
+Martina,Perez,18,2007-02-19,Femenino,Mendoza,6,5,4,Tierras Vivas (Lujan),2022-02-20
+Martina,Perez,18,2007-02-19,Femenino,Mendoza,6,5,4,Yañez (Maipu),2024-07-25
+Jeremias,Pereyra,18,2007-10-17,Masculino,Mendoza,6,5,5,Todos Unidos (Las Heras),2023-05-25
+Jeremias,Pereyra,18,2007-10-17,Masculino,Mendoza,6,5,5,Barrio Grilli Sur (Guaymallén),2022-01-15
+Isabella,Acosta,22,2003-05-21,Femenino,Mendoza,3,2,7,Tierras Vivas (Lujan),2022-02-20
+Isabella,Acosta,22,2003-05-21,Femenino,Mendoza,3,2,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Isabella,Acosta,22,2003-05-21,Femenino,Mendoza,3,2,7,Todos Unidos (Las Heras),2023-05-25
+Pilar,Gomez,57,1968-07-14,Femenino,Mendoza,7,10,8,Barrio Grilli Sur (Guaymallén),2022-01-15
+Valentina,Cabrera,60,1965-10-10,Femenino,Mendoza,0,0,0,None,None
+Federico,Aguero,27,1998-07-22,Masculino,Mendoza,7,10,10,Yañez (Maipu),2024-07-25
+Francisco,Moreno,24,2001-01-13,Masculino,Mendoza,5,6,5,Barrio Grilli Sur (Guaymallén),2022-01-15
+Francisco,Moreno,24,2001-01-13,Masculino,Mendoza,5,6,5,Todos Unidos (Las Heras),2023-05-25
+Bautista,Suarez,19,2006-06-05,Masculino,Mendoza,3,4,1,Yañez (Maipu),2025-04-10
+Bautista,Suarez,19,2006-06-05,Masculino,Mendoza,3,4,1,Tierras Vivas (Lujan),2022-02-20
+Bautista,Suarez,19,2006-06-05,Masculino,Mendoza,3,4,1,Yañez (Maipu),2024-07-25
+Bautista,Suarez,19,2006-06-05,Masculino,Mendoza,3,4,1,Tierras Vivas (Lujan),2024-11-12
+Bautista,Suarez,19,2006-06-05,Masculino,Mendoza,3,4,1,Barrio Grilli Sur (Guaymallén),2022-01-15
+Camila,Gomez,23,2002-10-04,Femenino,Mendoza,5,2,2,Tierras Vivas (Lujan),2024-11-12
+Alma Mia,Rodriguez,18,2007-02-01,Femenino,Mendoza,4,6,1,Yañez (Maipu),2024-07-25
+Alma Mia,Rodriguez,18,2007-02-01,Femenino,Mendoza,4,6,1,Todos Unidos (Las Heras),2023-05-25
+Alma Mia,Rodriguez,18,2007-02-01,Femenino,Mendoza,4,6,1,Tierras Vivas (Lujan),2022-02-20
+Thiago Benjamin,Fernandez,38,1987-02-19,Masculino,Mendoza,9,10,9,Tierras Vivas (Lujan),2024-11-12
+Thiago Benjamin,Fernandez,38,1987-02-19,Masculino,Mendoza,9,10,9,Barrio Grilli Norte (Guaymallén),2021-04-05
+Santiago,Godoy,29,1996-07-31,Masculino,Mendoza,10,7,9,Yañez (Maipu),2025-04-10
+Santiago,Godoy,29,1996-07-31,Masculino,Mendoza,10,7,9,Todos Unidos (Las Heras),2023-05-25
+Amparo,Alvarez,28,1997-08-21,Femenino,Mendoza,8,6,10,Barrio Grilli Norte (Guaymallén),2021-04-05
+Morena,Acosta,54,1971-08-24,Femenino,Mendoza,7,6,10,Tierras Vivas (Lujan),2022-02-20
+Morena,Acosta,54,1971-08-24,Femenino,Mendoza,7,6,10,Tierras Vivas (Lujan),2024-11-12
+Morena,Acosta,54,1971-08-24,Femenino,Mendoza,7,6,10,Barrio Grilli Norte (Guaymallén),2021-04-05
+Morena,Acosta,54,1971-08-24,Femenino,Mendoza,7,6,10,Barrio Grilli Sur (Guaymallén),2022-01-15
+Thiago,Arias,23,2002-02-14,Masculino,Mendoza,6,1,7,Todos Unidos (Las Heras),2023-05-25
+Thiago,Arias,23,2002-02-14,Masculino,Mendoza,6,1,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Alejo,Ferreyra,27,1998-10-26,Masculino,Mendoza,8,5,6,Yañez (Maipu),2024-07-25
+Alejo,Ferreyra,27,1998-10-26,Masculino,Mendoza,8,5,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Alejo,Ferreyra,27,1998-10-26,Masculino,Mendoza,8,5,6,Todos Unidos (Las Heras),2023-05-25
+Alejo,Ferreyra,27,1998-10-26,Masculino,Mendoza,8,5,6,Tierras Vivas (Lujan),2022-02-20
+Bianca,Guzman,24,2001-06-17,Femenino,Santa Cruz,4,7,1,Yañez (Maipu),2025-04-10
+Lola,Martinez,20,2005-05-12,Femenino,Mendoza,0,0,0,None,None
+Luciana,Ruiz,20,2005-10-11,Femenino,Mendoza,3,2,5,Yañez (Maipu),2025-04-10
+Catalina,Flores,24,2001-09-16,Femenino,Río Negro,0,0,0,None,None
+Victoria,Moyano,18,2007-09-24,Femenino,Mendoza,3,6,6,Yañez (Maipu),2024-07-25
+Victoria,Moyano,18,2007-09-24,Femenino,Mendoza,3,6,6,Barrio Grilli Sur (Guaymallén),2022-01-15
+Victoria,Moyano,18,2007-09-24,Femenino,Mendoza,3,6,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Joaquina,Rodriguez,23,2002-11-20,Femenino,Mendoza,7,3,2,Yañez (Maipu),2024-07-25
+Catalina,Benitez,22,2003-10-17,Femenino,Mendoza,6,6,2,Yañez (Maipu),2024-07-25
+Catalina,Benitez,22,2003-10-17,Femenino,Mendoza,6,6,2,Tierras Vivas (Lujan),2022-02-20
+Constanza,Correa,41,1984-08-04,Femenino,Mendoza,8,5,6,Yañez (Maipu),2025-04-10
+Isabella,Campos,36,1989-08-07,Femenino,Mendoza,7,10,10,Barrio Grilli Sur (Guaymallén),2022-01-15
+Isabella,Campos,36,1989-08-07,Femenino,Mendoza,7,10,10,Barrio Grilli Norte (Guaymallén),2021-04-05
+Thiago Benjamin,Gomez,28,1997-05-18,Masculino,Mendoza,5,10,5,Barrio Grilli Norte (Guaymallén),2021-04-05
+Thiago Benjamin,Gomez,28,1997-05-18,Masculino,Mendoza,5,10,5,Yañez (Maipu),2024-07-25
+Thiago Nahuel,Acuña,29,1996-06-13,Masculino,Mendoza,7,8,10,Barrio Grilli Norte (Guaymallén),2021-04-05
+Thiago Nahuel,Acuña,29,1996-06-13,Masculino,Mendoza,7,8,10,Yañez (Maipu),2024-07-25
+Ludmila,Muñoz,28,1997-04-22,Femenino,Mendoza,9,7,9,Barrio Grilli Norte (Guaymallén),2021-04-05
+Ludmila,Muñoz,28,1997-04-22,Femenino,Mendoza,9,7,9,Tierras Vivas (Lujan),2024-11-12
+Juan Pablo,Sosa,19,2006-08-13,Masculino,Mendoza,3,4,2,Tierras Vivas (Lujan),2022-02-20
+Juan Pablo,Sosa,19,2006-08-13,Masculino,Mendoza,3,4,2,Barrio Grilli Norte (Guaymallén),2021-04-05
+Tomàs,Fernandez,26,1999-07-07,Masculino,Neuquén,9,8,6,Tierras Vivas (Lujan),2022-02-20
+Tomàs,Fernandez,26,1999-07-07,Masculino,Neuquén,9,8,6,Barrio Grilli Sur (Guaymallén),2022-01-15
+Tomàs,Fernandez,26,1999-07-07,Masculino,Neuquén,9,8,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Mateo,Gomez,21,2004-11-24,Masculino,Mendoza,4,1,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Mateo,Gomez,21,2004-11-24,Masculino,Mendoza,4,1,7,Yañez (Maipu),2024-07-25
+Mateo,Gomez,21,2004-11-24,Masculino,Mendoza,4,1,7,Todos Unidos (Las Heras),2023-05-25
+Bianca,Gomez,19,2006-04-19,Femenino,Mendoza,5,4,1,Todos Unidos (Las Heras),2023-05-25
+Bianca,Gomez,19,2006-04-19,Femenino,Mendoza,5,4,1,Tierras Vivas (Lujan),2022-02-20
+Julia,Cordoba,18,2007-11-25,Femenino,Mendoza,5,4,6,Tierras Vivas (Lujan),2024-11-12
+Agustina,Vazquez,58,1967-08-30,Femenino,Mendoza,7,8,9,Tierras Vivas (Lujan),2024-11-12
+Agustina,Vazquez,58,1967-08-30,Femenino,Mendoza,7,8,9,Yañez (Maipu),2025-04-10
+Agustina,Vazquez,58,1967-08-30,Femenino,Mendoza,7,8,9,Barrio Grilli Sur (Guaymallén),2022-01-15
+Agustina,Vazquez,58,1967-08-30,Femenino,Mendoza,7,8,9,Tierras Vivas (Lujan),2022-02-20
+Mia,Moreno,23,2002-01-11,Femenino,Mendoza,6,4,3,Todos Unidos (Las Heras),2023-05-25
+Manuel,Dominguez,25,2000-09-26,Masculino,Mendoza,5,6,10,Yañez (Maipu),2025-04-10
+Manuel,Dominguez,25,2000-09-26,Masculino,Mendoza,5,6,10,Barrio Grilli Sur (Guaymallén),2022-01-15
+Santiago,Lopez,57,1968-09-29,Masculino,Mendoza,9,10,8,Yañez (Maipu),2024-07-25
+Santiago,Lopez,57,1968-09-29,Masculino,Mendoza,9,10,8,Todos Unidos (Las Heras),2023-05-25
+Maria Paz,Ayala,23,2002-05-17,Femenino,Mendoza,6,1,4,Yañez (Maipu),2025-04-10
+Maria Paz,Ayala,23,2002-05-17,Femenino,Mendoza,6,1,4,Tierras Vivas (Lujan),2024-11-12
+Maria Paz,Ayala,23,2002-05-17,Femenino,Mendoza,6,1,4,Barrio Grilli Sur (Guaymallén),2022-01-15
+Maria Paz,Ayala,23,2002-05-17,Femenino,Mendoza,6,1,4,Todos Unidos (Las Heras),2023-05-25
+Martina,Aguero,28,1997-08-08,Femenino,Mendoza,10,9,6,Tierras Vivas (Lujan),2024-11-12
+Martina,Aguero,28,1997-08-08,Femenino,Mendoza,10,9,6,Yañez (Maipu),2024-07-25
+Martina,Aguero,28,1997-08-08,Femenino,Mendoza,10,9,6,Yañez (Maipu),2025-04-10
+Franco,Rodriguez,23,2002-10-15,Masculino,Mendoza,4,4,3,Yañez (Maipu),2024-07-25
+Franco,Rodriguez,23,2002-10-15,Masculino,Mendoza,4,4,3,Barrio Grilli Norte (Guaymallén),2021-04-05
+Franco,Rodriguez,23,2002-10-15,Masculino,Mendoza,4,4,3,Todos Unidos (Las Heras),2023-05-25
+Lucas,Gonzalez,20,2005-10-17,Masculino,Mendoza,3,6,2,Yañez (Maipu),2024-07-25
+Lucas,Gonzalez,20,2005-10-17,Masculino,Mendoza,3,6,2,Barrio Grilli Norte (Guaymallén),2021-04-05
+Morena,Torres,25,2000-06-25,Femenino,Mendoza,0,0,0,None,None
+Josefina,Torres,22,2003-10-08,Femenino,Mendoza,6,4,7,Tierras Vivas (Lujan),2024-11-12
+Julieta,Acuña,27,1998-08-20,Femenino,Mendoza,10,10,5,Todos Unidos (Las Heras),2023-05-25
+Julieta,Acuña,27,1998-08-20,Femenino,Mendoza,10,10,5,Tierras Vivas (Lujan),2022-02-20
+Julieta,Acuña,27,1998-08-20,Femenino,Mendoza,10,10,5,Barrio Grilli Norte (Guaymallén),2021-04-05
+Julieta,Acuña,27,1998-08-20,Femenino,Mendoza,10,10,5,Yañez (Maipu),2025-04-10
+Isabella,Rodriguez,26,1999-03-03,Femenino,Mendoza,10,7,9,Yañez (Maipu),2025-04-10
+Isabella,Rodriguez,26,1999-03-03,Femenino,Mendoza,10,7,9,Yañez (Maipu),2024-07-25
+Isabella,Rodriguez,26,1999-03-03,Femenino,Mendoza,10,7,9,Tierras Vivas (Lujan),2024-11-12
+Paloma,Rodriguez,25,2000-02-01,Femenino,Neuquén,7,9,9,Yañez (Maipu),2025-04-10
+Paloma,Rodriguez,25,2000-02-01,Femenino,Neuquén,7,9,9,Barrio Grilli Sur (Guaymallén),2022-01-15
+Paloma,Rodriguez,25,2000-02-01,Femenino,Neuquén,7,9,9,Todos Unidos (Las Heras),2023-05-25
+Emilia,Dominguez,23,2002-07-08,Femenino,Mendoza,4,1,3,Yañez (Maipu),2025-04-10
+Mia,Ramirez,22,2003-03-25,Femenino,Mendoza,3,2,4,Barrio Grilli Norte (Guaymallén),2021-04-05
+Luz Milagros,Gomez,29,1996-06-15,Femenino,Mendoza,6,5,8,Barrio Grilli Sur (Guaymallén),2022-01-15
+Catalina,Peralta,36,1989-08-19,Femenino,Mendoza,5,10,10,Todos Unidos (Las Heras),2023-05-25
+Malena,Carrizo,25,2000-01-18,Femenino,Mendoza,8,5,9,Yañez (Maipu),2024-07-25
+Malena,Carrizo,25,2000-01-18,Femenino,Mendoza,8,5,9,Barrio Grilli Sur (Guaymallén),2022-01-15
+Mateo,Velazquez,24,2001-01-22,Masculino,Mendoza,7,2,6,Yañez (Maipu),2024-07-25
+Mateo,Velazquez,24,2001-01-22,Masculino,Mendoza,7,2,6,Barrio Grilli Sur (Guaymallén),2022-01-15
+Benjamin,Sanchez,28,1997-03-24,Masculino,Mendoza,7,8,7,Yañez (Maipu),2024-07-25
+Benjamin,Sanchez,28,1997-03-24,Masculino,Mendoza,7,8,7,Todos Unidos (Las Heras),2023-05-25
+Benjamin,Sanchez,28,1997-03-24,Masculino,Mendoza,7,8,7,Tierras Vivas (Lujan),2024-11-12
+Benjamin,Sanchez,28,1997-03-24,Masculino,Mendoza,7,8,7,Barrio Grilli Sur (Guaymallén),2022-01-15
+Ramiro,Coronel,20,2005-04-23,Masculino,Mendoza,5,7,6,Tierras Vivas (Lujan),2024-11-12
+Ramiro,Coronel,20,2005-04-23,Masculino,Mendoza,5,7,6,Yañez (Maipu),2024-07-25
+Josefina,Gonzalez,29,1996-10-17,Femenino,Mendoza,9,10,7,Barrio Grilli Sur (Guaymallén),2022-01-15
+Josefina,Gonzalez,29,1996-10-17,Femenino,Mendoza,9,10,7,Yañez (Maipu),2025-04-10
+Thiago,Fernandez,34,1991-07-26,Masculino,Chaco,5,7,9,Barrio Grilli Sur (Guaymallén),2022-01-15
+Thiago,Fernandez,34,1991-07-26,Masculino,Chaco,5,7,9,Yañez (Maipu),2024-07-25
+Thiago,Fernandez,34,1991-07-26,Masculino,Chaco,5,7,9,Tierras Vivas (Lujan),2024-11-12
+Thiago,Fernandez,34,1991-07-26,Masculino,Chaco,5,7,9,Tierras Vivas (Lujan),2022-02-20
+Thiago,Fernandez,34,1991-07-26,Masculino,Chaco,5,7,9,Todos Unidos (Las Heras),2023-05-25
+Felicitas,Gimenez,28,1997-11-20,Femenino,Mendoza,8,5,9,Yañez (Maipu),2025-04-10
+Felicitas,Gimenez,28,1997-11-20,Femenino,Mendoza,8,5,9,Yañez (Maipu),2024-07-25
+Felicitas,Gimenez,28,1997-11-20,Femenino,Mendoza,8,5,9,Tierras Vivas (Lujan),2022-02-20
+Ambar,Sosa,18,2007-06-04,Femenino,Mendoza,4,3,6,Yañez (Maipu),2025-04-10
+Milena,Gonzalez,52,1973-01-08,Femenino,Mendoza,5,7,8,Yañez (Maipu),2024-07-25
+Renata,Rodriguez,53,1972-05-01,Femenino,Mendoza,9,8,6,Tierras Vivas (Lujan),2024-11-12
+Julia,Silva,29,1996-10-02,Femenino,Mendoza,10,7,9,Todos Unidos (Las Heras),2023-05-25
+Julia,Silva,29,1996-10-02,Femenino,Mendoza,10,7,9,Yañez (Maipu),2025-04-10
+Julia,Silva,29,1996-10-02,Femenino,Mendoza,10,7,9,Tierras Vivas (Lujan),2024-11-12
+Ana Paula,Garcia,21,2004-06-06,Femenino,Mendoza,5,7,5,Yañez (Maipu),2025-04-10
+Ana Paula,Garcia,21,2004-06-06,Femenino,Mendoza,5,7,5,Todos Unidos (Las Heras),2023-05-25
+Ana Paula,Garcia,21,2004-06-06,Femenino,Mendoza,5,7,5,Barrio Grilli Sur (Guaymallén),2022-01-15
+Martina,Romero,29,1996-11-07,Femenino,San Luis,6,6,10,Tierras Vivas (Lujan),2024-11-12
+Martina,Romero,29,1996-11-07,Femenino,San Luis,6,6,10,Barrio Grilli Norte (Guaymallén),2021-04-05
+Uma,Medina,24,2001-09-25,Femenino,Mendoza,7,7,3,Barrio Grilli Sur (Guaymallén),2022-01-15
+Morena Jazmin,Rodriguez,20,2005-11-24,Femenino,Mendoza,6,7,5,Yañez (Maipu),2024-07-25
+Morena Jazmin,Rodriguez,20,2005-11-24,Femenino,Mendoza,6,7,5,Barrio Grilli Norte (Guaymallén),2021-04-05
+Morena Jazmin,Rodriguez,20,2005-11-24,Femenino,Mendoza,6,7,5,Yañez (Maipu),2025-04-10
+Morena Jazmin,Rodriguez,20,2005-11-24,Femenino,Mendoza,6,7,5,Tierras Vivas (Lujan),2022-02-20
+Catalina,Benitez,29,1996-06-04,Femenino,Mendoza,9,5,9,Barrio Grilli Sur (Guaymallén),2022-01-15
+Morena,Ruiz,24,2001-05-01,Femenino,Mendoza,5,3,3,Barrio Grilli Sur (Guaymallén),2022-01-15
+Lucia,Diaz,49,1976-10-29,Femenino,Mendoza,7,8,6,Yañez (Maipu),2025-04-10
+Lucia,Diaz,49,1976-10-29,Femenino,Mendoza,7,8,6,Tierras Vivas (Lujan),2024-11-12
+Lucia,Diaz,49,1976-10-29,Femenino,Mendoza,7,8,6,Barrio Grilli Norte (Guaymallén),2021-04-05
+Lucia,Diaz,49,1976-10-29,Femenino,Mendoza,7,8,6,Yañez (Maipu),2024-07-25
+Lucia,Diaz,49,1976-10-29,Femenino,Mendoza,7,8,6,Tierras Vivas (Lujan),2022-02-20
+Valentino,Gutierrez,27,1998-02-14,Masculino,Mendoza,0,0,0,None,None
+Valentin,Diaz,19,2006-10-29,Masculino,Mendoza,7,7,7,Tierras Vivas (Lujan),2022-02-20
+Valentin,Diaz,19,2006-10-29,Masculino,Mendoza,7,7,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Alma,Ojeda,44,1981-11-15,Femenino,Mendoza,6,7,9,Tierras Vivas (Lujan),2024-11-12
+Lucía,Fernandez,26,1999-02-09,Femenino,Mendoza,10,6,10,Barrio Grilli Sur (Guaymallén),2022-01-15
+Lucía,Fernandez,26,1999-02-09,Femenino,Mendoza,10,6,10,Tierras Vivas (Lujan),2024-11-12
+Sofia,Diaz,26,1999-08-22,Femenino,Mendoza,5,8,10,Tierras Vivas (Lujan),2024-11-12
+Sofia,Diaz,26,1999-08-22,Femenino,Mendoza,5,8,10,Todos Unidos (Las Heras),2023-05-25
+Sofia,Diaz,26,1999-08-22,Femenino,Mendoza,5,8,10,Barrio Grilli Norte (Guaymallén),2021-04-05
+Sofia,Diaz,26,1999-08-22,Femenino,Mendoza,5,8,10,Barrio Grilli Sur (Guaymallén),2022-01-15
+Sofia,Coronel,18,2007-01-30,Femenino,Mendoza,7,7,2,Barrio Grilli Norte (Guaymallén),2021-04-05
+Valentino,Ramos,25,2000-07-10,Masculino,Mendoza,10,5,9,Barrio Grilli Norte (Guaymallén),2021-04-05
+Valentino,Ramos,25,2000-07-10,Masculino,Mendoza,10,5,9,Todos Unidos (Las Heras),2023-05-25
+Renata,Ortiz,19,2006-08-14,Femenino,Mendoza,5,5,1,Tierras Vivas (Lujan),2024-11-12
+Renata,Ortiz,19,2006-08-14,Femenino,Mendoza,5,5,1,Barrio Grilli Norte (Guaymallén),2021-04-05
+Lola,Blanco,27,1998-08-08,Femenino,Mendoza,10,5,8,Todos Unidos (Las Heras),2023-05-25
+Lola,Blanco,27,1998-08-08,Femenino,Mendoza,10,5,8,Yañez (Maipu),2025-04-10
+Lola,Blanco,27,1998-08-08,Femenino,Mendoza,10,5,8,Tierras Vivas (Lujan),2024-11-12
+Lucía,Velazquez,29,1996-05-05,Femenino,Mendoza,7,10,10,Yañez (Maipu),2024-07-25
+Lucía,Velazquez,29,1996-05-05,Femenino,Mendoza,7,10,10,Tierras Vivas (Lujan),2022-02-20
+Lucía,Velazquez,29,1996-05-05,Femenino,Mendoza,7,10,10,Barrio Grilli Sur (Guaymallén),2022-01-15
+Milo,Morales,30,1995-02-28,Masculino,Mendoza,5,9,9,Barrio Grilli Norte (Guaymallén),2021-04-05
+Milo,Morales,30,1995-02-28,Masculino,Mendoza,5,9,9,Yañez (Maipu),2025-04-10
+Camila,Herrera,19,2006-09-03,Femenino,Mendoza,6,6,7,Tierras Vivas (Lujan),2024-11-12
+Camila,Herrera,19,2006-09-03,Femenino,Mendoza,6,6,7,Tierras Vivas (Lujan),2022-02-20
+Camila,Herrera,19,2006-09-03,Femenino,Mendoza,6,6,7,Barrio Grilli Sur (Guaymallén),2022-01-15
+Juana,Perez,21,2004-01-22,Femenino,Mendoza,4,6,7,Barrio Grilli Norte (Guaymallén),2021-04-05
+Alma,Rodriguez,26,1999-06-29,Femenino,Mendoza,5,7,5,Tierras Vivas (Lujan),2022-02-20
+Alma,Rodriguez,26,1999-06-29,Femenino,Mendoza,5,7,5,Tierras Vivas (Lujan),2024-11-12
+Lola,Rodriguez,23,2002-11-19,Femenino,Mendoza,7,1,2,Barrio Grilli Sur (Guaymallén),2022-01-15
+Lola,Rodriguez,23,2002-11-19,Femenino,Mendoza,7,1,2,Barrio Grilli Norte (Guaymallén),2021-04-05
+Lola,Rodriguez,23,2002-11-19,Femenino,Mendoza,7,1,2,Tierras Vivas (Lujan),2022-02-20
+Juana,Moreno,27,1998-11-29,Femenino,Mendoza,7,7,8,Barrio Grilli Sur (Guaymallén),2022-01-15
+Juana,Moreno,27,1998-11-29,Femenino,Mendoza,7,7,8,Yañez (Maipu),2024-07-25
+Juana,Moreno,27,1998-11-29,Femenino,Mendoza,7,7,8,Tierras Vivas (Lujan),2024-11-12
+Catalina,Luna,21,2004-05-29,Femenino,Mendoza,4,6,6,Tierras Vivas (Lujan),2022-02-20
+Catalina,Luna,21,2004-05-29,Femenino,Mendoza,4,6,6,Yañez (Maipu),2025-04-10
+Renata,Castro,25,2000-11-03,Femenino,Mendoza,5,6,10,Yañez (Maipu),2024-07-25
+Santino Benjamin,Gonzalez,57,1968-12-19,Masculino,Mendoza,5,9,10,Barrio Grilli Sur (Guaymallén),2022-01-15
+Santino Benjamin,Gonzalez,57,1968-12-19,Masculino,Mendoza,5,9,10,Tierras Vivas (Lujan),2022-02-20
+Santino Benjamin,Gonzalez,57,1968-12-19,Masculino,Mendoza,5,9,10,Barrio Grilli Norte (Guaymallén),2021-04-05
+Santino Benjamin,Gonzalez,57,1968-12-19,Masculino,Mendoza,5,9,10,Yañez (Maipu),2024-07-25
+Maia,Ferreyra,24,2001-05-05,Femenino,Mendoza,7,3,5,Barrio Grilli Norte (Guaymallén),2021-04-05
+Manuel,Gimenez,28,1997-01-25,Masculino,Mendoza,9,10,7,Barrio Grilli Sur (Guaymallén),2022-01-15
+Lola,Correa,19,2006-11-22,Femenino,Mendoza,7,6,2,Tierras Vivas (Lujan),2024-11-12
+Lola,Correa,19,2006-11-22,Femenino,Mendoza,7,6,2,Barrio Grilli Sur (Guaymallén),2022-01-15
