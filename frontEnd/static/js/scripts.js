@@ -24,3 +24,19 @@ window.addEventListener('DOMContentLoaded', event => {
     }
 
 });
+
+document.getElementById("buscarAtributoBtn").addEventListener("click", function() {
+    const atributo = document.getElementById("atributo").value;
+    const valor = document.getElementById("valorAtributo").value;
+
+    // Validar campos
+    if (!atributo || !valor) {
+        alert("Por favor completa ambos campos.");
+        return;
+    }
+
+    // Redirigir con parámetros por GET
+    const url = `/buscar-por-atributo?atributo=${encodeURIComponent(atributo)}&valor=${encodeURIComponent(valor)}`;
+    window.location.href = url;
+});
+
