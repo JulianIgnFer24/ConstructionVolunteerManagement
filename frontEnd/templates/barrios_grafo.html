@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Grafo de Barrios</title>
+    <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <link href="https://unpkg.com/vis-network/styles/vis-network.min.css" rel="stylesheet" />
+    <style>
+        #grafo {
+            width: 100%;
+            height: 600px;
+            border: 1px solid lightgray;
+        }
+    </style>
+</head>
+<body>
+    <h2>Grafo de Barrios</h2>
+    <div id="grafo"></div>
+
+    <script>
+        fetch("/grafo-barrios-data")
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error("Error en la respuesta de la solicitud: " + response.statusText);
+                }
+                return response.json();
+            })
+            .then(data => {
+                // Imprime los datos para ver qué estamos recibiendo
+                console.log("Datos del grafo:", data);
+
+                // Verifica que los datos contengan 'nodes' y 'edges' y que no estén vacíos
+                if (data && Array.isArray(data.nodes) && Array.isArray(data.edges)) {
+                    const nodes = new vis.DataSet(data.nodes);
+                    const edges = new vis.DataSet(data.edges);
+
+                    const container = document.getElementById("grafo");
+                    const graphData = { nodes: nodes, edges: edges };
+
+                    const options = {
+                        nodes: {
+                            shape: 'dot',
+                            size: 20,
+                            font: { size: 14 }
+                        },
+                        edges: {
+                            arrows: 'to',
+                            font: { align: 'top' }
+                        },
+                        physics: {
+                            enabled: true
+                        }
+                    };
+
+                    // Inicializa y muestra el grafo
+                    new vis.Network(container, graphData, options);
+                } else {
+                    console.error("Los datos del grafo son inválidos o incompletos: ", data);
+                    alert("No se pudo cargar el grafo. Por favor, verifica los datos.");
+                }
+            })
+            .catch(error => {
+                console.error("Error en la solicitud de grafo:", error);
+                alert("Ocurrió un error al cargar el grafo. Por favor, intenta más tarde.");
+            });
+    </script>
+</body>
+</html>

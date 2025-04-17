@@ -10,6 +10,7 @@
         <link href="https://cdn.jsdelivr.net/npm/simple-datatables@7.1.2/dist/style.min.css" rel="stylesheet" />
         <link href="static/css/styles.css" rel="stylesheet" />
         <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
     </head>
     <body class="sb-nav-fixed">
         <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
@@ -43,6 +44,10 @@
                     <div class="sb-sidenav-menu">
                         <div class="nav">
                             <div class="sb-sidenav-menu-heading">Core</div>
+                            <a class="btn btn-primary" href="#">
+                                <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
+                                Barrios
+                            </a>
                             <div class="sb-sidenav-menu-heading">Interface</div>
                             <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapseLayouts" aria-expanded="false" aria-controls="collapseLayouts">
                                 <div class="sb-nav-link-icon"><i class="fas fa-columns"></i></div>
@@ -127,57 +132,147 @@
                                 {{ titulo or "Lista de Voluntarios" }}
                             </div>
                             <div class="card-body">
-                                <table id="tablaVoluntarios" class="table table-bordered">
-                                    <thead>
-                                        <tr>
-                                            <th>Nombre</th>
-                                            <th>Apellido</th>
-                                            <th>DNI</th>
-                                            <th>Constructivo</th>
-                                            <th>Social</th>
-                                            <th>Perspectiva de Género</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody id="voluntariosBody">
-                                        {% for voluntario in voluntarios %}
+                                {% if cuadrillas %}
+                                <!-- Monitores -->
+                                    <h5 class="mb-3">👷‍♂️ Monitores</h5>
+                                    <table class="table table-bordered">
+                                        <thead>
                                             <tr>
-                                                <td>{{ voluntario.Nombre }}</td>
-                                                <td>{{ voluntario.Apellido }}</td>
-                                                <td>{{ voluntario.DNI }}</td>
-                                                <td>{{ voluntario.Constructivo }}</td>
-                                                <td>{{ voluntario.Social }}</td>
-                                                <td>{{ voluntario.PerspectivaGenero }}</td>
+                                                <th>Nombre</th>
+                                                <th>Apellido</th>
+                                                <th>DNI</th>
+                                                <th>Constructivo</th>
+                                                <th>Social</th>
+                                                <th>Perspectiva de Género</th>
                                             </tr>
-                                        {% else %}
+                                        </thead>
+                                        <tbody>
+                                            {% for monitor in monitores %}
+                                                <tr>
+                                                    <td>{{ monitor.Nombre }}</td>
+                                                    <td>{{ monitor.Apellido }}</td>
+                                                    <td>{{ monitor.DNI }}</td>
+                                                    <td>{{ monitor.Constructivo }}</td>
+                                                    <td>{{ monitor.Social }}</td>
+                                                    <td>{{ monitor.PerspectivaGenero }}</td>
+                                                </tr>
+                                            {% endfor %}
+                                        </tbody>
+                                    </table>
+
+                                    <!-- Jefes de Escuela -->
+                                    <h5 class="mb-3 mt-4">🏫 Jefes de Escuela</h5>
+                                    <table class="table table-bordered">
+                                        <thead>
                                             <tr>
-                                                <td colspan="3">No hay voluntarios registrados.</td>
+                                                <th>Nombre</th>
+                                                <th>Apellido</th>
+                                                <th>DNI</th>
+                                                <th>Constructivo</th>
+                                                <th>Social</th>
+                                                <th>Perspectiva de Género</th>
                                             </tr>
-                                        {% endfor %}
-                                    </tbody>
-                                </table>
+                                        </thead>
+                                        <tbody>
+                                            {% for jefe in jefes_escuela %}
+                                                <tr>
+                                                    <td>{{ jefe.Nombre }}</td>
+                                                    <td>{{ jefe.Apellido }}</td>
+                                                    <td>{{ jefe.DNI }}</td>
+                                                    <td>{{ jefe.Constructivo }}</td>
+                                                    <td>{{ jefe.Social }}</td>
+                                                    <td>{{ jefe.PerspectivaGenero }}</td>
+                                                </tr>
+                                            {% endfor %}
+                                        </tbody>
+                                    </table>
+
+                                    <!-- Cuadrillas -->
+                                    <h5 class="mb-3 mt-5">🛠️ Cuadrillas Generadas</h5>
+                                    {% for cuadrilla in cuadrillas[2:] %}
+                                        <h6 class="mt-4">Cuadrilla {{ loop.index }}</h6>
+                                        <table class="table table-bordered">
+                                            <thead>
+                                                <tr>
+                                                    <th>Nombre</th>
+                                                    <th>Apellido</th>
+                                                    <th>DNI</th>
+                                                    <th>Constructivo</th>
+                                                    <th>Social</th>
+                                                    <th>Perspectiva de Género</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                {% for voluntario in cuadrilla %}
+                                                    <tr>
+                                                        <td>{{ voluntario.Nombre }}</td>
+                                                        <td>{{ voluntario.Apellido }}</td>
+                                                        <td>{{ voluntario.DNI }}</td>
+                                                        <td>{{ voluntario.Constructivo }}</td>
+                                                        <td>{{ voluntario.Social }}</td>
+                                                        <td>{{ voluntario.PerspectivaGenero }}</td>
+                                                    </tr>
+                                                {% endfor %}
+                                            </tbody>
+                                        </table>
+                                    {% endfor %}
+                                {% else %}
+                                    <div class="mb-3">
+                                        <button class="btn btn-secondary" onclick="ordenarPorSuma('desc')">Ordenar por Puntaje Total (Mayor a Menor)</button>
+                                        <button class="btn btn-secondary" onclick="ordenarPorSuma('asc')">Ordenar por Puntaje Total (Menor a Mayor)</button>
+                                    </div>
+                                    <table id="tablaVoluntarios" class="table table-bordered">
+                                        <thead>
+                                            <tr>
+                                                <th>Nombre</th>
+                                                <th>Apellido</th>
+                                                <th>DNI</th>
+                                                <th>Constructivo</th>
+                                                <th>Social</th>
+                                                <th>Perspectiva de Género</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody id="voluntariosBody">
+                                            {% for voluntario in voluntarios %}
+                                                <tr>
+                                                    <td>{{ voluntario.Nombre }}</td>
+                                                    <td>{{ voluntario.Apellido }}</td>
+                                                    <td>{{ voluntario.DNI }}</td>
+                                                    <td>{{ voluntario.Constructivo }}</td>
+                                                    <td>{{ voluntario.Social }}</td>
+                                                    <td>{{ voluntario.PerspectivaGenero }}</td>
+                                                </tr>
+                                            {% else %}
+                                                <tr>
+                                                    <td colspan="6">No hay voluntarios registrados.</td>
+                                                </tr>
+                                            {% endfor %}
+                                        </tbody>
+                                    </table>
+                                {% endif %}
                             </div>
                         </div>
                     </div>
                 </main>
-
                 <!-- Modal for Armar Cuadrillas -->
                 <div class="modal fade" id="armarCuadrillasModal" tabindex="-1" role="dialog" aria-labelledby="armarCuadrillasModalLabel" aria-hidden="true">
                     <div class="modal-dialog" role="document">
-                        <div class="modal-content">
+                        <div class="modal-content animate__animated animate__fadeIn">
                             <div class="modal-header">
                                 <h5 class="modal-title" id="armarCuadrillasModalLabel">Armar Cuadrillas</h5>
                                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                             </div>
                             <div class="modal-body">
                                 <form action="{{ url_for('armar_cuadrillas') }}" method="POST">
-                                <div class="form-group">
-                                    <label for="numero_casas">Número de casas a construir:</label>
-                                    <input type="number" id="numero_casas" name="numero_casas" class="form-control" required>
-                                </div>
-                                <button type="submit" class="btn btn-primary">Armar Cuadrillas</button>
-                            </form>
+                                    <div class="form-group mb-3">
+                                        <label for="numero_casas">Número de casas a construir:</label>
+                                        <input type="number" id="numero_casas" name="numero_casas" class="form-control" required>
+                                    </div>
+                                    <button type="submit" class="btn btn-primary btn-animado mt-3">
+                                        Armar Cuadrillas
+                                    </button>
+                                </form>
                             </div>
-
                         </div>
                     </div>
                 </div>
@@ -228,8 +323,6 @@
                                         <option value="dni">DNI</option>
                                     </select>
                                 </div>
-
-                                <!-- Campo de entrada para el valor del atributo -->
                                 <div class="mb-3">
                                     <label for="valorAtributo" class="form-label">Valor a buscar:</label>
                                     <input type="text" id="valorAtributo" name="valor" class="form-control" required>
@@ -244,7 +337,6 @@
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
 

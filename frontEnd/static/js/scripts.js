@@ -40,3 +40,23 @@ document.getElementById("buscarAtributoBtn").addEventListener("click", function(
     window.location.href = url;
 });
 
+function ordenarPorSuma(direccion = 'desc') {
+    const tbody = document.getElementById("voluntariosBody");
+    const filas = Array.from(tbody.querySelectorAll("tr"));
+
+    const obtenerSuma = (fila) => {
+        const constructivo = parseInt(fila.children[3]?.innerText) || 0;
+        const social = parseInt(fila.children[4]?.innerText) || 0;
+        const genero = parseInt(fila.children[5]?.innerText) || 0;
+        return constructivo + social + genero;
+    };
+
+    filas.sort((a, b) => {
+        const sumaA = obtenerSuma(a);
+        const sumaB = obtenerSuma(b);
+        return direccion === 'asc' ? sumaA - sumaB : sumaB - sumaA;
+    });
+
+    tbody.innerHTML = "";
+    filas.forEach(fila => tbody.appendChild(fila));
+}

@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request
 from neo4j import GraphDatabase
+import query_cuadrillas
 
 app = Flask(__name__)
 
@@ -21,18 +22,37 @@ def obtener_voluntarios_total():
         """)
         return [record.data() for record in result]
 
-def armar_cuad(casas):
-    """Consulta para armar las cuadrillas según el número de casas."""
+def obtener_datos_voluntario(dni):
     with driver.session() as session:
         result = session.run("""
-            MATCH (v:Voluntario)
-            match (v:Voluntario) -[ha1:TIENE_HABILIDAD]-> (re1{tipo:"Constructiva"})
-            match (v:Voluntario) -[ha2:TIENE_HABILIDAD]-> (re2{tipo:"Social"})
-            match (v:Voluntario) -[ha3:TIENE_HABILIDAD]-> (re3{tipo:"PerspectivaGenero"})
-            RETURN v.nombre AS Nombre, v.apellido AS Apellido, v.dni AS DNI , ha1.valor as Constructivo, ha2.valor as Social, ha3.valor as PerspectivaGenero
-            LIMIT 5
-        """, casas=int(casas))
-        return [record.data() for record in result]
+            MATCH (v:Voluntario {dni: $dni})
+            optional MATCH (v)-[h1:TIENE_HABILIDAD]->(ha1:Caracteristica {tipo: 'Constructiva'})
+            optional MATCH (v)-[h2:TIENE_HABILIDAD]->(ha2:Caracteristica {tipo: 'Social'})
+            optional MATCH (v)-[h3:TIENE_HABILIDAD]->(ha3:Caracteristica {tipo: 'PerspectivaGenero'})
+            RETURN 
+                v.nombre AS Nombre, 
+                v.apellido AS Apellido, 
+                v.dni AS DNI, 
+                h1.valor AS Constructivo, 
+                h2.valor AS Social, 
+                h3.valor AS PerspectivaGenero
+        """, dni=dni).single()
+        return result.data() if result else {}
+
+def armar_cuad(casas):
+    cuadrillas = query_cuadrillas.crear_equipo_construccion(casas)
+
+    monitores = [obtener_datos_voluntario(dni) for dni in cuadrillas[0]]
+    jefes_escuela = [obtener_datos_voluntario(dni) for dni in cuadrillas[1]]
+
+    cuadrillas_completas = []
+    for i in range(2, len(cuadrillas)):
+        cuadrilla = [obtener_datos_voluntario(dni) for dni in cuadrillas[i]]
+        cuadrillas_completas.append(cuadrilla)
+
+    return monitores, jefes_escuela, cuadrillas_completas
+
+
 
 def voluntarios_potenciar():
     """Consulta para obtener los voluntarios que pueden potenciar."""
@@ -102,8 +122,16 @@ def index():
 @app.route('/armar-cuadrillas', methods=['POST'])
 def armar_cuadrillas():
     casas = int(request.form['numero_casas'])
-    voluntarios = armar_cuad(casas)
-    return render_template('index.html', voluntarios=voluntarios, titulo = "Lista de Cuadrillas")
+    monitores, jefes_escuela, cuadrillas = armar_cuad(casas)
+
+    return render_template(
+        'index.html',
+        monitores=monitores,
+        jefes_escuela=jefes_escuela,
+        cuadrillas=cuadrillas,
+        titulo="Cuadrillas Armadas"
+    )
+
 
 @app.route('/perfiles-potenciar')
 def perfiles_potenciar():
@@ -191,7 +219,6 @@ def buscar_por_atributo():
         voluntarios = [record.data() for record in result]
 
     return render_template('index.html', voluntarios=voluntarios, titulo = f"Lista de Voluntarios que contienen '{valor}' en '{atributo_final}'")
-
 
 if __name__ == '__main__':
     app.run(debug=True, port=5001)
