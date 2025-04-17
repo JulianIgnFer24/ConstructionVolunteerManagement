@@ -83,6 +83,8 @@ def obtener_jefes_escuela(n):
 # print(escuela)
 
 
+import math
+
 def crear_cuadrillas_balanceadas(cantidad_casas):
     # 1) Obtener y excluir monitores/jefes (listas de DNIs)
     cantidad_monitores = math.ceil(cantidad_casas / 7)
@@ -107,7 +109,6 @@ def crear_cuadrillas_balanceadas(cantidad_casas):
     total = len(voluntarios_ordenados)
     base = total // cantidad_casas
     extra = total % cantidad_casas
-    # Primeras 'extra' cuadrillas tendrán tamaño base+1, el resto tamaño base
     tamaños = [
         base + 1 if i < extra else base
         for i in range(cantidad_casas)
@@ -120,25 +121,31 @@ def crear_cuadrillas_balanceadas(cantidad_casas):
     # 6) Reparto “greedy” de extremos
     while i <= j:
         if len(cuadrillas[idx]) < tamaños[idx]:
-            cuadrillas[idx].append(voluntarios_ordenados[i]['DNI'])
+            cuadrillas[idx].append(voluntarios_ordenados[i])
             i += 1
         if i <= j and len(cuadrillas[idx]) < tamaños[idx]:
-            cuadrillas[idx].append(voluntarios_ordenados[j]['DNI'])
+            cuadrillas[idx].append(voluntarios_ordenados[j])
             j -= 1
         idx = (idx + 1) % cantidad_casas
 
-    return cuadrillas
+    # 7) Ordenar cada cuadrilla internamente por TotalHabilidad descendente
+    cuadrillas_ordenadas = []
+    for grupo in cuadrillas:
+        grupo_ordenado = sorted(grupo, key=lambda x: x['TotalHabilidad'], reverse=True)
+        cuadrillas_ordenadas.append([v['DNI'] for v in grupo_ordenado])
+
+    return cuadrillas_ordenadas
 
 
 
-
-
-# cuadrillas = crear_cuadrillas_balanceadas(100)  # ejemplo: 10 casas
-# for num, cuadro in enumerate(cuadrillas, start=1):
-#     print(f"Cuadrilla {num}:")
-#     for dni in cuadro:
-#         print(f"  - {dni}")
-#     print()
+cuadrillas = crear_cuadrillas_balanceadas(100)  # ejemplo: 10 casas
+for num, cuadro in enumerate(cuadrillas, start=1):
+    print(f"Cuadrilla {num}:")
+    for dni in cuadro:
+        print(f"  - {dni}")
+    print()
+    
+    
 
 def crear_equipo_construccion(cantidad_casas):
     cant_monitores = math.ceil(cantidad_casas / 7)  # Cantidad de monitores necesarios
