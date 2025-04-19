@@ -8,6 +8,7 @@
 
 from neo4j import GraphDatabase
 import math
+import os
 
 uri = os.getenv("NEO4J_URI")
 user = os.getenv("NEO4J_USERNAME")
