@@ -2,3 +2,4 @@ faker
 pandas
 openpyxl
 neo4j
+flask
