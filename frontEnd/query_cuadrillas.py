@@ -9,7 +9,10 @@
 from neo4j import GraphDatabase
 import math
 
-driver = GraphDatabase.driver("bolt://localhost:7687", auth=("neo4j","testing123"))
+uri = os.getenv("NEO4J_URI")
+user = os.getenv("NEO4J_USERNAME")
+password = os.getenv("NEO4J_PASSWORD")
+driver = GraphDatabase.driver(uri, auth=(user, password))
 
 def obtener_voluntarios():
     with driver.session() as session:
