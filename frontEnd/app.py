@@ -19,7 +19,7 @@ def obtener_voluntarios_total():
             match (v:Voluntario) -[ha1:TIENE_HABILIDAD]-> (re1{tipo:"Constructiva"})
             match (v:Voluntario) -[ha2:TIENE_HABILIDAD]-> (re2{tipo:"Social"})
             match (v:Voluntario) -[ha3:TIENE_HABILIDAD]-> (re3{tipo:"PerspectivaGenero"})
-            RETURN v.nombre AS Nombre, v.apellido AS Apellido, v.DNI AS DNI, ha1.valor as Constructivo, ha2.valor as Social, ha3.valor as PerspectivaGenero
+            RETURN v.nombre AS Nombre, v.apellido AS Apellido, toString(v.DNI) AS DNI, ha1.valor as Constructivo, ha2.valor as Social, ha3.valor as PerspectivaGenero
         """)
         return [record.data() for record in result]
 
