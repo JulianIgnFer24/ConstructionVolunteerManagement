@@ -24,6 +24,7 @@ def obtener_voluntarios_total():
         return [record.data() for record in result]
 
 def obtener_datos_voluntario(DNI):
+    DNI = str(DNI).strip()
     with driver.session() as session:
         result = session.run("""
             MATCH (v:Voluntario {DNI: $DNI})
