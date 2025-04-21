@@ -25,6 +25,17 @@ window.addEventListener('DOMContentLoaded', event => {
 
 });
 
+document.addEventListener('DOMContentLoaded', function () {
+    const sidebarToggle = document.getElementById('sidebarToggle');
+    if (sidebarToggle) {
+        sidebarToggle.addEventListener('click', function (e) {
+            e.preventDefault();
+            document.body.classList.toggle('sb-sidenav-toggled');
+        });
+    }
+});
+
+
 document.getElementById("buscarAtributoBtn").addEventListener("click", function() {
     const atributo = document.getElementById("atributo").value;
     const valor = document.getElementById("valorAtributo").value;
