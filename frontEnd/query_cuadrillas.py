@@ -10,9 +10,9 @@ from neo4j import GraphDatabase
 import math
 import os
 
-uri = os.getenv("NEO4J_URI")
-user = os.getenv("NEO4J_USERNAME")
-password = os.getenv("NEO4J_PASSWORD")
+uri = "bolt://localhost:7687"
+user = "neo4j"
+password = "testing123"
 driver = GraphDatabase.driver(uri, auth=(user, password))
 
 def obtener_voluntarios():
@@ -22,7 +22,7 @@ def obtener_voluntarios():
             MATCH (v)-[r2:TIENE_HABILIDAD]->(c2:Caracteristica {tipo: "Social"})
             MATCH (v)-[r3:TIENE_HABILIDAD]->(c3:Caracteristica {tipo: "PerspectivaGenero"})
             RETURN 
-                v.DNI AS DNI,
+                v.dni AS DNI,
                 r1.valor AS Constructiva,
                 r2.valor AS Social,
                 r3.valor AS Genero
@@ -40,7 +40,7 @@ def obtener_monitores(n):
             MATCH (v:Voluntario)-[r1:TIENE_HABILIDAD]->(:Caracteristica {tipo: "Constructiva"})
             MATCH (v)-[r2:TIENE_HABILIDAD]->(:Caracteristica {tipo: "Social"})
             WHERE r1.valor = 10 AND r2.valor >= 8
-            RETURN v.DNI AS DNI, r2.valor AS Social
+            RETURN v.dni AS DNI, r2.valor AS Social
             ORDER BY r2.valor DESC
         """)
         # Limitar el número de monitores a los primeros 'n' después de ordenar
@@ -63,7 +63,7 @@ def obtener_jefes_escuela(n):
             MATCH (v:Voluntario)-[r2:TIENE_HABILIDAD]->(:Caracteristica {tipo: "Social"})
             MATCH (v)-[r3:TIENE_HABILIDAD]->(:Caracteristica {tipo: "PerspectivaGenero"})
             WHERE r2.valor = 10 AND r3.valor >= 8
-            RETURN v.DNI AS DNI, r3.valor AS Genero
+            RETURN v.dni AS DNI, r3.valor AS Genero
             ORDER BY r3.valor DESC
         """)
         
@@ -142,12 +142,12 @@ def crear_cuadrillas_balanceadas(cantidad_casas):
 
 
 
-cuadrillas = crear_cuadrillas_balanceadas(100)  # ejemplo: 10 casas
-for num, cuadro in enumerate(cuadrillas, start=1):
-    print(f"Cuadrilla {num}:")
-    for DNI in cuadro:
-        print(f"  - {DNI}")
-    print()
+# cuadrillas = crear_cuadrillas_balanceadas(100)  # ejemplo: 10 casas
+# for num, cuadro in enumerate(cuadrillas, start=1):
+#     print(f"Cuadrilla {num}:")
+#     for DNI in cuadro:
+#         print(f"  - {DNI}")
+#     print()
     
     
 
