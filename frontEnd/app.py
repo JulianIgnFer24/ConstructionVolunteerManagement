@@ -1,14 +1,14 @@
 from flask import Flask, render_template, request
 from neo4j import GraphDatabase
 import os
-import query_cuadrillas
+from frontEnd import query_cuadrillas
 
 app = Flask(__name__)
 
 # Conexión a Neo4j
-uri = "bolt://localhost:7687"
-user = "neo4j"
-password = "testing123"
+uri = os.getenv("NEO4J_URI")
+user = os.getenv("NEO4J_USERNAME")
+password = os.getenv("NEO4J_PASSWORD")
 driver = GraphDatabase.driver(uri, auth=(user, password))
 
 
